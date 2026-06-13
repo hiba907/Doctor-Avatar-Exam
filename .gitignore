@@ -1,0 +1,11 @@
+clips/
+inputs/
+temp/
+outputs/
+SadTalker-main/
+__pycache__/
+*.mp3
+*.mp4
+*.pyc
+*.pth
+*.pkl
