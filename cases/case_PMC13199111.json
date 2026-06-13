@@ -1,0 +1,148 @@
+{
+  "case_id": "VSC-13199111",
+  "title": "Efficacy and Safety of FLT3 Inhibitors for Acute Myeloid Leukemia: A Network Meta-Analysis",
+  "specialty": "Hematology-Oncology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13199111",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13199111/",
+    "license": "Creative Commons Attribution License (CC BY 4.0)"
+  },
+  "learning_objectives": [
+    "Describe the role of FLT3 mutations in the pathophysiology and prognosis of Acute Myeloid Leukemia (AML).",
+    "Compare the efficacy of different FLT3 inhibitors (Gilteritinib, Midostaurin, Quizartinib) in improving complete remission rates and overall survival in AML patients.",
+    "Identify common adverse events associated with FLT3 inhibitor therapy in AML.",
+    "Understand the application and clinical implications of network meta-analysis in evidence-based medicine for comparing multiple interventions."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "outcomes_analyzed": "Complete Remission Rate (CR), Overall Survival (OS), Adverse Event occurrence rates (e.g., reduced neutrophil count, anemia, elevated alanine aminotransferase, elevated aspartate aminotransferase, thrombocytopenia, neutropenia).",
+      "patient_characteristics": "FLT3 mutation status"
+    },
+    "imaging": [],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "Acute Myeloid Leukemia (AML)",
+  "management_plan": [
+    "Treatment with various FLT3 inhibitors (Gilteritinib, Midostaurin, Quizartinib, Sorafenib, Sunitinib, Lestaurtinib, Tandutinib, Crenolanib).",
+    "Control groups received standard clinical chemotherapy plans (e.g., MEC, FLAG-IDA, low-dose cytarabine, azacitidine, daunorubicin/idarubicin), placebo, or best supportive care (BSC)."
+  ],
+  "clinical_course": "",
+  "outcome": "This network meta-analysis of 20 RCTs (6128 AML patients) found:\n- Efficacy: Gilteritinib (OR = 1.75, 95% CI: 1.16–2.66) and Midostaurin (OR = 1.31, 95% CI: 1.07–1.60) significantly improved complete remission rate (CR). Gilteritinib (HR = 0.70, 95% CI: 0.49–0.99) and Quizartinib (HR = 0.73, 95% CI: 0.54–0.98) significantly prolonged overall survival (OS). Gilteritinib may show more excellent treatment effectiveness.\n- Safety: Experimental groups (FLT3 inhibitors) had a significantly higher risk of adverse events compared to control (P < 0.05), including reduced neutrophil count, anemia, elevated alanine aminotransferase, elevated aspartate aminotransferase, fatigue, thrombocytopenia, dyspnea, and neutropenia. Despite this, FLT3 inhibitors demonstrated good overall safety and tolerability.",
+  "teaching_points": [
+    "FLT3 mutations are important prognostic markers and therapeutic targets in AML.",
+    "Gilteritinib demonstrated consistent benefits in both complete remission rates and overall survival, suggesting it may be a highly effective FLT3 inhibitor for AML.",
+    "Midostaurin improved CR, and Quizartinib improved OS, indicating varied efficacy profiles among different FLT3 inhibitors.",
+    "Common adverse events associated with FLT3 inhibitors include myelosuppression (neutropenia, anemia, thrombocytopenia) and liver enzyme elevations, necessitating careful patient monitoring.",
+    "Network meta-analysis is a powerful tool for comparing multiple interventions simultaneously, providing a comprehensive evidence base for clinical decision-making in the absence of head-to-head trials."
+  ],
+  "red_flags": [],
+  "examiner_questions": [
+    {
+      "question": "Explain the mechanistic basis for targeting FLT3 in acute myeloid leukemia and elaborate on the different FLT3 inhibitors discussed in the meta-analysis, including their potential roles in different AML settings.",
+      "ideal_answer_keywords": [
+        "FLT3 mutation",
+        "tyrosine kinase inhibitor",
+        "signal blockade",
+        "AML pathogenesis",
+        "Gilteritinib",
+        "Midostaurin",
+        "Quizartinib",
+        "Sorafenib",
+        "first-line",
+        "relapsed/refractory"
+      ]
+    },
+    {
+      "question": "Critically evaluate the efficacy data presented for FLT3 inhibitors, specifically distinguishing between their impact on complete remission rate (CR) and overall survival (OS). Based on the quantitative results, which FLT3 inhibitor demonstrates the most compelling evidence for overall clinical benefit, and why?",
+      "ideal_answer_keywords": [
+        "complete remission rate (CR)",
+        "overall survival (OS)",
+        "odds ratio (OR)",
+        "hazard ratio (HR)",
+        "Gilteritinib",
+        "Midostaurin",
+        "Quizartinib",
+        "statistical significance",
+        "clinical benefit",
+        "magnitude of effect"
+      ]
+    },
+    {
+      "question": "Discuss the safety profile of FLT3 inhibitors as revealed by the meta-analysis. What are the most frequently observed adverse events, and what are the key considerations for patient monitoring and management during treatment with these agents?",
+      "ideal_answer_keywords": [
+        "adverse events",
+        "reduced neutrophil count",
+        "anemia",
+        "elevated ALT/AST",
+        "fatigue",
+        "thrombocytopenia",
+        "dyspnea",
+        "neutropenia",
+        "patient monitoring",
+        "risk management",
+        "dose modification"
+      ]
+    },
+    {
+      "question": "Describe the methodology of a network meta-analysis and explain why it was a suitable approach for comparing FLT3 inhibitors in this study. What are the main advantages and potential limitations of interpreting findings from a network meta-analysis?",
+      "ideal_answer_keywords": [
+        "network meta-analysis",
+        "indirect comparisons",
+        "randomized controlled trials (RCTs)",
+        "evidence synthesis",
+        "transitivity assumption",
+        "consistency",
+        "heterogeneity",
+        "ranking of interventions",
+        "limitations (e.g., quality of included studies)"
+      ]
+    },
+    {
+      "question": "Considering the overall findings, including both efficacy and safety, how would you prioritize the use of FLT3 inhibitors in the treatment algorithm for Acute Myeloid Leukemia, especially for patients with a confirmed FLT3 mutation?",
+      "ideal_answer_keywords": [
+        "treatment algorithm",
+        "AML",
+        "FLT3 mutations",
+        "Gilteritinib",
+        "Midostaurin",
+        "Quizartinib",
+        "first-line therapy",
+        "relapsed/refractory",
+        "risk-benefit assessment",
+        "personalized medicine",
+        "NCCN guidelines"
+      ]
+    }
+  ],
+  "topic_tag": "febrile_neutropenia"
+}

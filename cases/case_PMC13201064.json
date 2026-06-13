@@ -1,0 +1,163 @@
+{
+  "case_id": "VSC-13201064",
+  "title": "A rare presentation of Sheehan’s syndrome with recurrent hypoglycemia: A case report",
+  "specialty": "Endocrinology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13201064",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13201064/",
+    "license": "Creative Commons Attribution License 4.0 (CCBY)"
+  },
+  "learning_objectives": [
+    "Recognize the variable and delayed presentation of Sheehan's syndrome, even decades after the inciting event.",
+    "Understand the pathophysiology of recurrent hypoglycemia in panhypopituitarism, particularly due to cortisol and growth hormone deficiencies.",
+    "Identify acute infection as a potential trigger for adrenal crisis in patients with undiagnosed hypopituitarism.",
+    "Outline the appropriate sequence and importance of hormone replacement therapy in Sheehan's syndrome, especially glucocorticoids before thyroid hormones.",
+    "Interpret key laboratory and imaging findings (e.g., empty sella, hormonal panel) consistent with panhypopituitarism."
+  ],
+  "patient_profile": {
+    "age": 48,
+    "sex": "Female",
+    "occupation": "",
+    "allergies": "No known drug allergies",
+    "current_medications": [],
+    "past_medical_history": [
+      "Severe postpartum hemorrhage (PPH) 20 years prior, requiring prolonged hospitalization",
+      "Secondary amenorrhea following PPH",
+      "Agalactia (inability to lactate) following PPH",
+      "Chronic fatigue, cold intolerance, and gradual thinning of scalp and body hair (developed over years, never evaluated)"
+    ],
+    "family_history": [
+      "No family history of endocrine disorders, autoimmune conditions, or malignancy"
+    ],
+    "social_history": "Nonsmoker, nonalcohol consumer"
+  },
+  "presenting_complaint": "Central chest pain, productive cough, dyspnea, intermittent fever, generalized body weakness, severe anemia, and recurrent hypoglycemia.",
+  "history_of_present_illness": "A 48-year-old female presented with central chest pain for 10 days, described as constant, dull, exacerbated by deep inspiration, and occasionally radiating anteriorly. She reported progressively worsening generalized body weakness over the past week. Intermittent cough over 10 days, occasionally productive of yellowish sputum, with mMRC grade III-IV dyspnea. Intermittent fever (max 102°F) for 2 days. No hemoptysis, wheezing, chills, rigor, night sweats, or weight loss. She also had recurrent hypoglycemia episodes.",
+  "vital_signs": {
+    "blood_pressure": "118/76 mm Hg",
+    "heart_rate": 78,
+    "respiratory_rate": 16,
+    "oxygen_saturation": 98,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "Conscious, alert, well oriented. Well built and nourished, no pallor, icterus, cyanosis, clubbing, lymphadenopathy, or pedal edema. Afebrile at time of assessment.",
+    "cardiovascular": "Normal first and second heart sounds, no murmurs, rubs, or gallops.",
+    "respiratory": "Bilateral vesicular breath sounds of reduced intensity and basal crepitations present.",
+    "abdominal": "Systemic examination revealed no abnormalities (no specific abdominal findings reported).",
+    "neurological": "Well oriented to time, place, and person (no specific neurological findings reported).",
+    "other": "Ophthalmic evaluation: fundus examination revealed normal optic disc and macula in both eyes, with no evidence of papilledema or visual field defects."
+  },
+  "investigations": {
+    "laboratory": {
+      "Hemoglobin": "6.9 g/dL (post-transfusion: stabilized, initial was 6.9 g/dL)",
+      "Packed Cell Volume (PCV)": "21.5% (initial), 26.4% (after transfusion)",
+      "Total Leukocyte Count": "14,500/cumm (Neutrophils 70%)",
+      "Glucose (recurrent)": "48–56 mg/dL (Reference: 70–140 mg/dL)",
+      "Red Blood Cell Count": "3.63 million/cumm",
+      "Mean Corpuscular Volume (MCV)": "72.6 fL",
+      "Mean Corpuscular Hemoglobin (MCH)": "21.3 pg",
+      "Mean Corpuscular Hemoglobin Concentration (MCHC)": "29.3%",
+      "Red Cell Distribution Width (RDW)": "16.5%",
+      "Platelet Count": "215,000/cumm",
+      "Urea": "2.3 mmol/L (within normal range)",
+      "Creatinine": "174 μmol/L (elevated)",
+      "Serum Sodium": "134 mEq/L (Reference: 135–145 mEq/L)",
+      "Potassium": "3.6 mEq/L (within normal limits)",
+      "Morning Cortisol": "0.6 μg/dL (Reference: 3.7–19.4 μg/dL)",
+      "Free T3 (FT3)": "<1.64 pmol/L (Reference: 2.4–6.0 pmol/L)",
+      "Free T4 (FT4)": "<5.15 pmol/L (Reference: 10.0–19.0 pmol/L)",
+      "TSH": "0.956 μIU/mL (Reference: 0.35–4.94 μIU/mL)",
+      "Luteinizing Hormone (LH)": "1.06 mIU/mL (Reference: 5.1–26.5 mIU/mL)",
+      "Follicle-Stimulating Hormone (FSH)": "5.28 mIU/mL (Reference for postmenopausal: 21.5–131.0 mIU/mL)",
+      "Serum Prolactin": "3.83 ng/mL (Reference: 3.5–5.2 ng/mL)",
+      "Growth Hormone (GH)": "<0.05 ng/mL (Reference: <8.0 ng/mL)"
+    },
+    "imaging": [
+      {
+        "type": "MRI Brain",
+        "findings": "Sagittal T1W MRI shows the sella is empty (pituitary gland appears shrunken, CSF fills the space). Axial T2W MRI shows empty sella with a small T2 dot of the infundibulum."
+      }
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "Sheehan’s syndrome presenting with panhypopituitarism and recurrent hypoglycemia, precipitated by respiratory tract infection.",
+  "management_plan": [
+    "Glucocorticoid replacement therapy initiated with oral prednisolone 10 mg daily (lifelong maintenance with stress-dose adjustments planned).",
+    "Intravenous glucose infusion for hypoglycemia management.",
+    "Packed red cell transfusion upon admission for severe anemia.",
+    "Levothyroxine supplementation initiated 2–3 days after corticosteroid therapy to correct central hypothyroidism.",
+    "Supportive management for the respiratory tract infection."
+  ],
+  "clinical_course": "Patient received packed red cell transfusion upon admission, which stabilized hemoglobin levels. After 2–3 days of corticosteroid therapy, levothyroxine was initiated. Hypoglycemia was managed with intravenous glucose.",
+  "outcome": "The patient showed significant clinical improvement after initiation of hormonal replacement therapy, with stabilization of blood glucose levels and improvement in systemic symptoms.",
+  "teaching_points": [
+    "Sheehan syndrome is a rare but potentially fatal cause of hypopituitarism from ischemic necrosis of the anterior pituitary following severe postpartum hemorrhage.",
+    "Symptoms are often gradual and nonspecific, leading to delayed diagnosis, sometimes until an acute illness precipitates adrenal crisis or severe hypoglycemia.",
+    "Recurrent hypoglycemia in Sheehan's syndrome is multifactorial, primarily due to cortisol deficiency and secondarily hypothyroidism.",
+    "Clinicians must maintain a high index of suspicion for Sheehan syndrome in women with a history of severe postpartum hemorrhage, secondary amenorrhea, agalactia, and chronic endocrine symptoms, even decades later.",
+    "Acute infections can trigger adrenal crises in undiagnosed hypopituitarism.",
+    "Early recognition and prompt, appropriately sequenced hormone replacement (glucocorticoids before thyroid hormone) are lifesaving.",
+    "Hematological abnormalities like anemia are common and often reversible with hormone replacement.",
+    "This case highlights recurrent hypoglycemia as a leading manifestation, which is less common in reported cases dominated by chronic hypothyroid or adrenal insufficiency symptoms."
+  ],
+  "red_flags": [
+    "History of severe postpartum hemorrhage 20 years prior.",
+    "Secondary amenorrhea and agalactia following delivery.",
+    "Chronic symptoms of fatigue, cold intolerance, and hair thinning.",
+    "Acute presentation with recurrent hypoglycemia and severe anemia.",
+    "Presence of an acute respiratory tract infection in a patient with a history suggestive of hypopituitarism.",
+    "Markedly low morning cortisol and other pituitary hormone deficiencies.",
+    "Empty sella on MRI."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Explain the physiological mechanisms contributing to the recurrent hypoglycemia observed in this patient, linking them specifically to the documented pituitary hormone deficiencies.",
+      "ideal_answer_keywords": [
+        "Cortisol deficiency",
+        "Gluconeogenesis impairment",
+        "Glycogenolysis inhibition",
+        "Growth hormone deficiency",
+        "Insulin sensitivity",
+        "Thyroid hormone impact on glucose metabolism"
+      ]
+    },
+    {
+      "question": "The patient presented with a respiratory tract infection. Discuss how such an intercurrent illness can precipitate an adrenal crisis in an undiagnosed patient with Sheehan's syndrome, and what critical principle must guide the initiation of hormone replacement therapy.",
+      "ideal_answer_keywords": [
+        "Stress response",
+        "Increased cortisol demand",
+        "Adrenal insufficiency",
+        "Glucocorticoid replacement first",
+        "Levothyroxine delayed",
+        "Adrenal crisis prevention",
+        "Hypothyroidism worsening adrenal crisis"
+      ]
+    },
+    {
+      "question": "The MRI findings indicated an 'empty sella'. Describe what this finding represents in the context of Sheehan's syndrome and how it correlates with the patient's panhypopituitarism.",
+      "ideal_answer_keywords": [
+        "Ischemic necrosis",
+        "Pituitary atrophy/shrinkage",
+        "CSF filling sella",
+        "Anterior pituitary destruction",
+        "Panhypopituitarism manifestation",
+        "Posterior pituitary often spared (bright spot)"
+      ]
+    },
+    {
+      "question": "Given the comprehensive hormonal deficiencies identified, what long-term management considerations, beyond glucocorticoid and levothyroxine replacement, would be important for this patient to ensure optimal health and quality of life?",
+      "ideal_answer_keywords": [
+        "Growth hormone replacement (quality of life, body composition)",
+        "Gonadotropin/sex hormone replacement (bone health, libido, overall well-being, estradiol)",
+        "Bone mineral density monitoring",
+        "Monitoring for diabetes insipidus (less common in Sheehan's but possible)",
+        "Patient education on stress dosing",
+        "Regular endocrine follow-up"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "case_id": "VSC-13200198",
+  "title": "Hairy Cell Leukemia: Clinical Characteristics and Outcomes from a Single Center in the Middle East and North Africa",
+  "specialty": "Hematology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13200198",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200198/",
+    "license": "Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/)"
+  },
+  "learning_objectives": [
+    "Describe the clinicopathologic characteristics and presenting features of Hairy Cell Leukemia (HCL).",
+    "Identify key diagnostic markers (immunophenotypic and molecular) for classic HCL and differentiate it from HCL-variant.",
+    "Summarize current treatment approaches for HCL, specifically cladribine-based therapy, and discuss associated outcomes.",
+    "Recognize the consistency of HCL treatment efficacy across diverse geographic and ethnic populations."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "Varied, including asymptomatic cytopenias or splenomegaly, constitutional symptoms (fatigue, dizziness, weight loss, night sweats), abdominal pain, dyspnea, pathological or vertebral compression fractures, and infection-related syndromes (febrile neutropenia, neutropenic sepsis, cryptococcal meningitis, COVID-19 related ARDS).",
+  "history_of_present_illness": "This is a retrospective analysis of 22 patients diagnosed with Hairy Cell Leukemia (HCL) at a tertiary care center in Qatar between 2013 and 2025. The cohort represented diverse nationalities across Asia, Africa, Europe, and North America, with predominant representation from South Asian and Middle Eastern populations. The median age at diagnosis was 51 years (range, 37–89), and most patients were male (86%). Nine patients (41%) were asymptomatic at diagnosis, primarily identified during evaluation of cytopenias or incidental splenomegaly. Twelve patients (55%) were symptomatic, presenting with various complaints including abdominal pain, fatigue, weight loss, night sweats, dyspnea, pathological or vertebral compression fractures, and severe infections. All but one case were classified as classic HCL, with one HCL-variant case.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "Splenomegaly was present in 14 of 21 patients (67%), with splenic length typically 13–23 cm. Hepatomegaly was reported in 4 of 21 patients (19%).",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "Blood_Workup_Averages_SD": {
+        "WBC": "5.6 ± 7.95 x10^9/L",
+        "Hemoglobin": "12.04 ± 3.05 g/dL",
+        "ANC": "1.29 ± 0.68 x10^9/L",
+        "ALC": "2.01 ± 1.15 x10^9/L",
+        "AMC": "1.59 ± 2.3 x10^9/L",
+        "Platelets": "88.3 ± 39.6 x10^9/L",
+        "LDH": "214.45 ± 157.4 U/L"
+      },
+      "Flow_Cytometry": "Strong expression of CD19, CD20, CD22, CD103, CD25, CD11c, and CD123. CD11c positive in 95%. CD25 negative in one patient. CD103 negative in one patient. CD123 negative in 7 patients (31%). A few cases showed aberrant loss of CD19, PAX-5, or CD103. Immunological HCL score (CD11c, CD25, CD103, CD123) of 3 or 4 observed in ~98% of classic HCL.",
+      "Bone_Marrow_Examination": "Typical dense hairy-cell infiltration in 19 patients. Median marrow involvement approximately 80% (range, 30–100%). Annexin A1 (ANXA1) immunohistochemistry positive in a subset of cases.",
+      "Molecular_Genetics": "BRAF V600E mutation detected in 82% of tested cases. VE1 immunohistochemistry not systematically performed."
+    },
+    "imaging": [
+      "Ultrasound of abdomen: Splenomegaly (14/21 patients, 67%), Hepatomegaly (4/21 patients, 19%)."
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [
+    "Hairy Cell Leukemia Variant (HCL-V)",
+    "Splenic diffuse red pulp lymphoma (SDRPL)",
+    "Other splenic B-cell lymphomas mimicking HCL"
+  ],
+  "final_diagnosis": "Hairy Cell Leukemia (HCL) (21 classic HCL, 1 HCL-variant)",
+  "management_plan": [
+    "First-line treatment: Cladribine alone (38% of patients) or Cladribine with Rituximab (56% of patients).",
+    "Pentostatin used in 1 patient (6%).",
+    "Treatment tailored to clinical appropriateness per institutional practice."
+  ],
+  "clinical_course": "Cladribine-based therapy yielded high response rates with minimal toxicity. Patients achieved durable remissions.",
+  "outcome": "Five-year overall survival was 100%. Excellent survival rates were observed, highlighting consistent efficacy of cladribine-based therapy across diverse populations.",
+  "teaching_points": [
+    "HCL is a rare B-cell lymphoproliferative neoplasm, often affecting middle-aged men, with diverse clinical presentations including asymptomatic cytopenias, splenomegaly, and infections.",
+    "Diagnosis of classic HCL relies on characteristic morphology, a specific immunophenotype (CD11c, CD25, CD103, CD123 positivity), and is strongly associated with the BRAF V600E mutation.",
+    "Cladribine-based therapy, with or without rituximab, is highly effective for HCL, leading to high response rates, durable remissions, and excellent long-term survival.",
+    "Differentiation between classic HCL, HCL-variant, and other HCL-like disorders is crucial due to differences in prognosis and treatment approaches.",
+    "The study demonstrates consistent efficacy of HCL treatments in ethnically and geographically diverse patient populations."
+  ],
+  "red_flags": [
+    "Unexplained pancytopenia or cytopenias.",
+    "Significant splenomegaly or hepatosplenomegaly.",
+    "Recurrent or severe infections, especially opportunistic infections (e.g., febrile neutropenia, cryptococcal meningitis).",
+    "Constitutional symptoms (e.g., fatigue, unexplained weight loss, night sweats).",
+    "Pathological fractures or vertebral compression fractures."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Given the diagnostic criteria mentioned (WHO/ICC, immunophenotype, BRAF V600E), how would you approach the diagnosis of HCL in a patient with suspected splenic B-cell lymphoma but equivocal flow cytometry results, particularly if BRAF V600E testing is unavailable or delayed?",
+      "ideal_answer_keywords": [
+        "bone marrow biopsy",
+        "morphology",
+        "histochemistry",
+        "Annexin A1",
+        "CD11c",
+        "CD25",
+        "CD103",
+        "CD123",
+        "clinicopathologic correlation",
+        "exclusion of other lymphomas"
+      ]
+    },
+    {
+      "question": "The study highlights a 100% 5-year overall survival with cladribine-based therapy. Discuss the factors contributing to this excellent outcome in HCL and what challenges might still exist in managing this disease, particularly in specific patient subgroups or situations like relapse.",
+      "ideal_answer_keywords": [
+        "purine analogue efficacy",
+        "cladribine",
+        "Rituximab",
+        "BRAF V600E targetability",
+        "low tumor burden (often incidental)",
+        "long-term follow-up",
+        "relapsed/refractory HCL",
+        "HCL-V management",
+        "toxicity management",
+        "second-line therapies (vemurafenib, moxetumomab pasudotox)"
+      ]
+    },
+    {
+      "question": "Compare and contrast the typical clinical presentation, immunophenotype, and molecular features of classic HCL versus HCL-variant (HCL-V) and explain the importance of distinguishing between these entities for patient management.",
+      "ideal_answer_keywords": [
+        "classic HCL",
+        "HCL-variant",
+        "BRAF V600E",
+        "CD25",
+        "CD123",
+        "CD103",
+        "CD11c",
+        "CD19",
+        "CD20",
+        "CD22",
+        "splenomegaly",
+        "cytopenias",
+        "prognosis",
+        "treatment response (purine analogues vs. others)",
+        "morphology (prominent nucleoli in HCL-V)"
+      ]
+    },
+    {
+      "question": "Cladribine is a purine analogue commonly used in HCL. Briefly describe its mechanism of action and explain why it is so effective in HCL, including potential common and serious side effects a patient should be counseled on.",
+      "ideal_answer_keywords": [
+        "purine analogue",
+        "adenosine deaminase",
+        "DNA synthesis inhibition",
+        "deoxyadenosine triphosphate (dATP) accumulation",
+        "lymphoid cells sensitivity",
+        "myelosuppression",
+        "immunosuppression",
+        "infections",
+        "fever",
+        "nausea",
+        "fatigue",
+        "tumor lysis syndrome"
+      ]
+    },
+    {
+      "question": "What are the key considerations for follow-up and monitoring in patients with HCL who achieve complete remission after cladribine-based therapy, including signs of potential relapse?",
+      "ideal_answer_keywords": [
+        "physical exam",
+        "CBC",
+        "flow cytometry (minimal residual disease)",
+        "bone marrow biopsy (for confirmation)",
+        "splenomegaly assessment",
+        "cytopenias (reappearance)",
+        "recurrent infections",
+        "constitutional symptoms",
+        "imaging (abdominal ultrasound)",
+        "immunological HCL score"
+      ]
+    }
+  ],
+  "topic_tag": "febrile_neutropenia"
+}

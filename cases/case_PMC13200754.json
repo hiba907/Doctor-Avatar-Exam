@@ -1,0 +1,129 @@
+{
+  "case_id": "VSC-13200754",
+  "title": "Uncommon presentations of ascariasis: A case series including gallbladder ascariasis and Löffler’s syndrome",
+  "specialty": "Gastroenterology / Infectious Disease",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13200754",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200754/",
+    "license": "CC BY-NC-ND 4.0"
+  },
+  "learning_objectives": [
+    "To recognize uncommon hepatobiliary and pulmonary manifestations of Ascaris lumbricoides infection.",
+    "To identify characteristic ultrasonographic findings of gallbladder ascariasis, such as the 'inner tube sign'.",
+    "To understand the clinical presentation, diagnostic features (imaging, laboratory), and management of Löffler’s syndrome in the context of ascariasis.",
+    "To appreciate the importance of considering parasitic infections in the differential diagnosis of abdominal pain with eosinophilia and respiratory symptoms with pulmonary infiltrates, especially in endemic regions.",
+    "To recall conservative management strategies, including anthelminthic therapy, for uncomplicated ascariasis presentations."
+  ],
+  "patient_profile": {
+    "age": 92,
+    "sex": "male",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "not a known case of any chronic illness"
+    ],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "Dull aching pain in the right upper quadrant of the abdomen.",
+  "history_of_present_illness": "A 92-year-old male presented to the emergency room with dull aching pain in the right upper quadrant of the abdomen for the past 20–30 days, associated with intermittent nausea and vomiting. There was no history of fever, jaundice, pruritus, or significant weight loss.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "The remainder of the systemic examination was unremarkable.",
+    "cardiovascular": "Unremarkable",
+    "respiratory": "Unremarkable",
+    "abdominal": "Tenderness was elicited in the right hypochondrium; however, no guarding or rigidity was noted.",
+    "neurological": "Unremarkable",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "total_leukocyte_count": "6800/µL",
+      "differential_leukocyte_count": "10% eosinophils",
+      "absolute_eosinophil_count": "680/µL",
+      "alanine_aminotransferase": "124 U/L",
+      "aspartate_aminotransferase": "110 U/L",
+      "alkaline_phosphatase": "217 U/L",
+      "serum_bilirubin": "within normal range"
+    },
+    "imaging": [
+      {
+        "type": "Ultrasound abdomen",
+        "findings": "Distended gallbladder with a mobile, linear, and echogenic structure with a central anechoic tube ('inner tube sign') with active, undulating movements suggesting live Ascaris lumbricoides within the gallbladder."
+      }
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [
+    "Acute cholecystitis (provisional)"
+  ],
+  "final_diagnosis": "Gallbladder ascariasis",
+  "management_plan": [
+    "Conservative management with anthelminthic therapy (e.g., Albendazole)",
+    "Supportive care"
+  ],
+  "clinical_course": "The patient was managed conservatively with anthelminthic therapy and supportive care. The case series mentions both cases (including the patient with Löffler's syndrome) were successfully managed conservatively.",
+  "outcome": "Successful conservative management with anthelminthic therapy and supportive care, leading to resolution of symptoms. The series highlights successful management of both hepatobiliary and pulmonary presentations of Ascaris lumbricoides.",
+  "teaching_points": [
+    "Gallbladder ascariasis is an uncommon manifestation of Ascaris lumbricoides infection, typically seen in endemic regions.",
+    "The 'inner tube sign' on ultrasound is pathognomonic for a worm in the biliary tract or gallbladder.",
+    "Löffler’s syndrome is a hypersensitivity reaction to larval migration through the lungs, characterized by transient pulmonary infiltrates and peripheral eosinophilia, as seen in the second case of a 38-year-old female.",
+    "Ascaris lumbricoides can present with a wide spectrum of symptoms, affecting both hepatobiliary (biliary colic, cholecystitis) and pulmonary systems (respiratory distress, ground-glass opacities).",
+    "Peripheral eosinophilia should raise suspicion for parasitic infections, even in the absence of classical symptoms.",
+    "Conservative management with anthelminthic drugs (e.g., albendazole) is often effective for uncomplicated presentations."
+  ],
+  "red_flags": [
+    "Signs of cholangitis (e.g., Charcot's triad: fever, right upper quadrant pain, jaundice)",
+    "Signs of acute pancreatitis (e.g., severe epigastric pain radiating to the back, elevated amylase/lipase)",
+    "Signs of gallbladder perforation or peritonitis (e.g., severe localized or generalized abdominal pain, rigidity, rebound tenderness)",
+    "Severe respiratory distress or worsening pulmonary infiltrates in Löffler's syndrome.",
+    "Persistent or worsening biliary obstruction."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Describe the typical life cycle of Ascaris lumbricoides and explain at which stages it can cause the varied presentations seen in this case series (gallbladder ascariasis and Löffler's syndrome).",
+      "ideal_answer_keywords": [
+        "ingestion of embryonated eggs",
+        "larvae hatch in small intestine",
+        "hepatic-tracheal migration",
+        "lung migration (Löffler's)",
+        "swallowing of mature larvae",
+        "adult worms in small intestine",
+        "migration into biliary tree (gallbladder ascariasis)"
+      ]
+    },
+    {
+      "question": "Compare and contrast the diagnostic approach for biliary ascariasis versus Löffler's syndrome, particularly focusing on the roles of imaging and laboratory findings in each presentation.",
+      "ideal_answer_keywords": [
+        "biliary ascariasis: ultrasound 'inner tube sign', CT/MRI, LFTs, eosinophilia",
+        "Löffler's syndrome: chest HRCT (ground-glass opacities, migratory infiltrates), peripheral eosinophilia, respiratory symptoms, stool ova/parasites often negative in early larval stage"
+      ]
+    },
+    {
+      "question": "Discuss the differential diagnoses for right upper quadrant abdominal pain and pulmonary infiltrates with eosinophilia in a patient from an endemic region. How would you prioritize your investigations?",
+      "ideal_answer_keywords": [
+        "RUQ pain: cholecystitis (calculous/acalculous), cholangitis, pancreatitis, hepatitis, peptic ulcer disease, amoebic liver abscess, other parasites",
+        "Pulmonary infiltrates + eosinophilia: other parasitic infections (Strongyloides, Toxocara), drug-induced lung injury, allergic bronchopulmonary aspergillosis (ABPA), Churg-Strauss syndrome (EGPA), idiopathic eosinophilic pneumonia",
+        "Prioritization: ultrasound for RUQ, stool O&P, blood eosinophil count, HRCT chest, serology for other parasites"
+      ]
+    },
+    {
+      "question": "Outline the conservative management principles for biliary ascariasis. When might surgical or endoscopic intervention be considered?",
+      "ideal_answer_keywords": [
+        "anthelminthics (albendazole, mebendazole), supportive care (analgesics, antiemetics), hydration",
+        "monitoring for worm expulsion",
+        "surgical/endoscopic intervention: failed conservative management, persistent biliary obstruction, acute cholangitis, acute pancreatitis, gallbladder perforation, impaction of worm, recurrent infections, cholecystitis not resolving"
+      ]
+    }
+  ],
+  "topic_tag": "atypical_chest_pain_emergency"
+}

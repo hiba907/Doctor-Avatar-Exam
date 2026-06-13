@@ -1,0 +1,132 @@
+{
+  "case_id": "VSC-13199237",
+  "title": "Cognitive Outcomes Following Endovascular Thrombectomy for Ischemic Stroke: A Systematic Review",
+  "specialty": "Neurology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13199237",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13199237/",
+    "license": "CC BY 4.0"
+  },
+  "learning_objectives": [
+    "To understand the current evidence regarding cognitive outcomes after endovascular thrombectomy (EVT) for acute ischemic stroke (AIS).",
+    "To identify specific cognitive domains most consistently impacted by EVT.",
+    "To recognize clinical, imaging, and biological factors associated with cognitive recovery post-EVT.",
+    "To appreciate the challenges and future directions in assessing cognitive outcomes in EVT studies."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "",
+  "management_plan": [],
+  "clinical_course": "",
+  "outcome": "",
+  "teaching_points": [
+    "Endovascular thrombectomy (EVT) for acute ischemic stroke (AIS) due to large-vessel occlusion (LVO) is associated with more favorable cognitive outcomes compared to intravenous thrombolysis (IVT) or best medical therapy.",
+    "The most consistent cognitive benefits of EVT are observed in global cognition and executive functions, with more variable but favorable effects on memory.",
+    "Worse cognitive outcomes post-EVT are linked to larger infarct volume, combined gray–white matter involvement, territorial infarct patterns, and longer time to reperfusion.",
+    "Exploratory proteomic work suggests associations between inflammatory and neurotrophic markers and cognitive recovery after EVT.",
+    "Despite the observed benefits, post-stroke cognitive impairment remains frequent after EVT, highlighting the need for standardized cognitive assessment and longer-term follow-up in future research."
+  ],
+  "red_flags": [
+    "Persistent cognitive deficits are common even after successful EVT, necessitating continued monitoring and rehabilitation.",
+    "Significant heterogeneity in cognitive assessment tools, outcome definitions, and follow-up times across studies limits direct comparability and the ability for quantitative meta-analysis.",
+    "The critical importance of rapid reperfusion and minimizing infarct volume for better cognitive outcomes underscores the urgency of stroke management."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Beyond the established functional benefits of EVT in acute ischemic stroke, what specific cognitive domains have shown the most consistent improvement post-EVT, and which areas indicate more variable effects?",
+      "ideal_answer_keywords": [
+        "global cognition",
+        "executive function",
+        "MoCA",
+        "MMSE",
+        "memory",
+        "attention",
+        "visuospatial abilities"
+      ]
+    },
+    {
+      "question": "The systematic review identifies several factors associated with worse cognitive outcomes after EVT. Discuss three such factors, categorizing them by clinical, imaging, or biological relevance, and explain their pathophysiological implications.",
+      "ideal_answer_keywords": [
+        "larger infarct volume",
+        "gray-white matter involvement",
+        "territorial infarct patterns",
+        "longer time to reperfusion",
+        "inflammatory markers",
+        "neurotrophic markers",
+        "neuronal damage",
+        "reperfusion injury"
+      ]
+    },
+    {
+      "question": "Given the substantial heterogeneity in cognitive assessment tools and follow-up time points observed in the reviewed studies, propose a comprehensive strategy for standardizing cognitive outcome measurement in future EVT trials to improve data comparability and meta-analysis feasibility.",
+      "ideal_answer_keywords": [
+        "PRISMA guidelines",
+        "validated cognitive instruments (e.g., MoCA, MMSE, detailed neuropsychological batteries)",
+        "standardized follow-up intervals",
+        "core outcome sets",
+        "longitudinal assessment",
+        "multidisciplinary input"
+      ]
+    },
+    {
+      "question": "Despite the favorable cognitive outcomes associated with EVT, the review concludes that persistent cognitive deficits remain common. What are the clinical implications of this finding for patient counseling, post-stroke rehabilitation planning, and long-term care?",
+      "ideal_answer_keywords": [
+        "realistic expectations",
+        "cognitive rehabilitation",
+        "multidisciplinary team",
+        "long-term follow-up",
+        "screening for cognitive impairment",
+        "patient and caregiver education",
+        "support services"
+      ]
+    },
+    {
+      "question": "Exploratory proteomic work mentioned in the review suggested associations between inflammatory and neurotrophic markers and cognitive recovery. Elaborate on how these biological markers might theoretically influence cognitive outcomes post-EVT and their potential as future therapeutic targets or prognostic indicators.",
+      "ideal_answer_keywords": [
+        "neuroinflammation",
+        "neurotrophic factors",
+        "BDNF",
+        "cytokines",
+        "neuronal plasticity",
+        "synaptogenesis",
+        "neuroprotection",
+        "biomarkers",
+        "personalized medicine"
+      ]
+    }
+  ],
+  "topic_tag": "ischemic_stroke_thrombolysis"
+}

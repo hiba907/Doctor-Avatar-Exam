@@ -1,0 +1,207 @@
+{
+  "case_id": "VSC-13197101",
+  "title": "Atypical Presentation of New Onset Diabetes with Hyperglycemic Hyperosmolar State in Two Toddlers",
+  "specialty": "Pediatric Endocrinology",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13197101",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13197101/",
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND) International License."
+  },
+  "learning_objectives": [
+    "Recognize the rare presentation of hyperglycemic hyperosmolar state (HHS) or mixed HHS-DKA in toddlers with new-onset diabetes.",
+    "Understand the unique challenges in diagnosing and managing HHS in young children, particularly those with developmental delay.",
+    "Differentiate between HHS and DKA based on clinical and laboratory findings, and understand the distinct management strategies.",
+    "Identify potential complications associated with HHS/mixed HHS-DKA, such as acute kidney injury and pancreatitis, and their impact on morbidity and mortality.",
+    "Appreciate the importance of aggressive fluid resuscitation and judicious, delayed insulin initiation in the management of HHS to prevent complications."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "Male (both cases)",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [
+      "Case 1: None",
+      "Case 2: Prophylactic sulfamethoxazole-trimethoprim, ursodiol, polyethylene glycol"
+    ],
+    "past_medical_history": [
+      "Case 1: Autism spectrum disorder",
+      "Case 2: Trisomy 21, autism spectrum disorder, duodenal atresia status post repair, cholestasis, bilateral cystic kidney disease"
+    ],
+    "family_history": "",
+    "social_history": "Both patients were nonverbal, which likely contributed to their inability to communicate increased thirst and freely access water. They were also inadvertently provided high carbohydrate-containing liquids (diluted juice and PediaSure®) prior to presentation."
+  },
+  "presenting_complaint": "The report describes two toddlers. Case 1 presented with fatigue and decreased activity level, one episode of emesis, and heavy breathing. Case 2 presented with lethargy and respiratory distress.",
+  "history_of_present_illness": "Case 1 was a 3-year-4-month-old nonverbal male with autism spectrum disorder. Case 2 was a 4-year-7-month-old nonverbal male with Trisomy 21, autism spectrum disorder, and complex medical history. Both presented with severe hyperglycemia and hyperosmolality at new onset of type 1 diabetes. Their developmental delays likely contributed to delayed recognition of increased thirst and difficulty accessing fluids, exacerbated by high-carbohydrate liquid intake.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": 140,
+    "respiratory_rate": 18,
+    "oxygen_saturation": 86,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "Toddlers presenting with fatigue/lethargy, severe dehydration, and varying degrees of respiratory distress.",
+    "cardiovascular": "Tachycardia (heart rates 140-144 bpm).",
+    "respiratory": "Case 1: Heavy breathing and hypoxia (SpO2 86%). Case 2: Respiratory distress, hypercapnia, requiring bilevel positive airway pressure.",
+    "abdominal": "",
+    "neurological": "Nonverbal, developmental delay mentioned in history.",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "case_1_initial_values": {
+        "Serum glucose": "76.0 mmol/L (1370 mg/dL)",
+        "Venous pH": "7.40",
+        "pCO2": "31 mmHg",
+        "Bicarbonate": "19 mmol/L",
+        "Measured sodium": "149 mmol/L",
+        "Corrected sodium": "169 mmol/L",
+        "Calculated serum osmolality": "388 mOsm/kg",
+        "Serum β-hydroxybutyrate": "Trace urinary ketones",
+        "Hemoglobin A1c": "72 mmol/mol (8.7%)",
+        "Creatinine": "61.9 mmol/L (0.7 mg/dL)",
+        "Lipase": "4 U/L",
+        "Islet antigen 2 antibody": "Positive",
+        "Anti-insulin antibodies": "Positive"
+      },
+      "case_2_initial_values": {
+        "Serum glucose": "117.3 mmol/L (2114 mg/dL)",
+        "Venous pH": "7.15",
+        "pCO2": "50 mmHg",
+        "Bicarbonate": "19 mmol/L",
+        "Measured sodium": "134 mmol/L",
+        "Corrected sodium": "166 mmol/L",
+        "Calculated serum osmolality": "401 mOsm/kg",
+        "Serum β-hydroxybutyrate": "4.4 mmol/L",
+        "Hemoglobin A1c": "89 mmol/mol (10.3%)",
+        "Creatinine": "123.8 mmol/L (1.4 mg/dL)",
+        "Lipase": "7740 U/L",
+        "Glutamic acid decarboxylase-65 antibody": "Negative",
+        "Islet antigen 2 antibody": "Negative",
+        "Anti-insulin antibodies": "Negative",
+        "Zinc transporter 8 antibody": "Negative",
+        "Monogenetic diabetes panel (18 genes including HNF1β)": "Negative"
+      },
+      "reference_ranges": {
+        "Serum glucose": "3.3-6.4 mmol/L (60-115 mg/dL)",
+        "Venous pH": "7.32-7.42",
+        "pCO2": "33-46 mmHg",
+        "Bicarbonate": "21-30 mmol/L",
+        "Sodium": "135-145 mmol/L",
+        "Calculated serum osmolality": "271-296 mOsm/kg",
+        "Serum β-hydroxybutyrate": "<0.3 mmol/L",
+        "Hemoglobin A1c": "20-38 mmol/mol (4.0-5.6%)",
+        "Creatinine": "17.7-35.4 mmol/L (0.2-0.4 mg/dL)",
+        "Lipase": "<202 U/L"
+      }
+    },
+    "imaging": [],
+    "other_tests": []
+  },
+  "differential_diagnosis": [
+    "Diabetic Ketoacidosis (DKA)",
+    "Hyperglycemic Hyperosmolar State (HHS)",
+    "Mixed HHS-DKA"
+  ],
+  "final_diagnosis": "New onset Type 1 Diabetes with: Case 1 presenting with Hyperglycemic Hyperosmolar State (HHS) complicated by acute kidney injury. Case 2 presenting with mixed Hyperglycemic Hyperosmolar State (HHS) and Diabetic Ketoacidosis (DKA) complicated by acute kidney injury and pancreatitis.",
+  "management_plan": [
+    "Aggressive rehydration with isotonic intravenous (IV) fluids (initially 20 mL/kg boluses, followed by 1.5-2 times maintenance rates).",
+    "Delayed and low-dose IV insulin infusion (initial rate 0.1 units/kg/hr, quickly reduced to 0.025 units/kg/hr upon recognition of HHS/mixed state).",
+    "Close monitoring of blood glucose, serum osmolality, and electrolytes.",
+    "Supportive care for complications (e.g., supplemental oxygen, bilevel positive airway pressure).",
+    "Transition to subcutaneous basal-bolus insulin upon stabilization."
+  ],
+  "clinical_course": "Both patients initially received aggressive fluid resuscitation. However, hyperosmolality was initially overlooked, leading to earlier and higher insulin dosing (0.1 units/kg/hr) more typical for DKA. Upon recognition of HHS/mixed HHS-DKA, insulin infusions were temporarily paused or reduced to low-dose (0.025 units/kg/hr) while IV rehydration was increased. Blood glucose levels stabilized, and complications resolved.",
+  "outcome": "Both patients recovered without sequelae and were discharged on subcutaneous basal-bolus insulin for Type 1 diabetes.",
+  "teaching_points": [
+    "HHS and mixed HHS-DKA are rare but severe complications in toddlers with new-onset diabetes, carrying higher morbidity and mortality than DKA alone.",
+    "Developmental delay and young age significantly increase the risk of hyperosmolality due to the inability to communicate thirst, lack of free access to fluids, and potentially inadvertent intake of high-carbohydrate liquids.",
+    "A high index of suspicion for HHS/mixed HHS-DKA is crucial in young patients with severe hyperglycemia (glucose > 33.3 mmol/L or 600 mg/dL), especially with developmental delays.",
+    "Management of HHS prioritizes aggressive fluid resuscitation (e.g., isotonic fluids at 1.5-2 times maintenance) with a delayed and low-dose insulin infusion to prevent rapid osmotic shifts and complications like cerebral edema.",
+    "Complications such as acute kidney injury and pancreatitis can occur in HHS/mixed HHS-DKA and require specific monitoring and management.",
+    "Differentiation between HHS and DKA is paramount for appropriate treatment due to their distinct pathophysiologies and management protocols."
+  ],
+  "red_flags": [
+    "New onset diabetes in a toddler with severe hyperglycemia (>600 mg/dL or 33.3 mmol/L).",
+    "Evidence of developmental delay or nonverbal status in a severely hyperglycemic child.",
+    "Calculated serum osmolality >320 mOsm/kg.",
+    "Low or absent ketosis despite severe hyperglycemia (suggesting HHS over DKA).",
+    "Signs of profound dehydration (even if intravascular volume appears relatively preserved).",
+    "Rapid drop in blood glucose with aggressive insulin initiation in a hyperosmolar state.",
+    "Presence of acute kidney injury or pancreatitis in the context of diabetic crisis."
+  ],
+  "examiner_questions": [
+    {
+      "question": "A 3-year-old child presents with new-onset diabetes, blood glucose 1500 mg/dL, pH 7.42, bicarbonate 18 mmol/L, and serum osmolality 395 mOsm/kg. What is the primary diagnosis and outline the initial therapeutic priorities, specifically justifying the sequence of interventions.",
+      "ideal_answer_keywords": [
+        "HHS",
+        "Hyperglycemic Hyperosmolar State",
+        "aggressive fluid resuscitation",
+        "isotonic saline",
+        "delayed insulin",
+        "low-dose insulin",
+        "cerebral edema prevention",
+        "osmolality monitoring",
+        "electrolytes"
+      ]
+    },
+    {
+      "question": "Both toddlers in this report had developmental delays. Explain in detail how such delays contribute to the pathogenesis and severity of HHS in young children, and what preventive strategies could potentially mitigate these risks.",
+      "ideal_answer_keywords": [
+        "inability to communicate thirst",
+        "lack of fluid access",
+        "delayed symptom recognition",
+        "masked polyuria/polydipsia",
+        "high-carbohydrate fluid intake",
+        "caregiver education",
+        "proactive screening",
+        "early diabetes awareness"
+      ]
+    },
+    {
+      "question": "Discuss the significant differences in pathophysiology, clinical presentation, and potential complications between HHS and DKA in the pediatric population. Why is distinguishing these two states critical for optimal management and outcome?",
+      "ideal_answer_keywords": [
+        "insulin deficiency (absolute vs. relative)",
+        "ketogenesis",
+        "hyperosmolality",
+        "dehydration severity",
+        "intravascular volume",
+        "mortality rates",
+        "cerebral edema",
+        "AKI",
+        "pancreatitis",
+        "rhabdomyolysis",
+        "fluid vs. insulin priority"
+      ]
+    },
+    {
+      "question": "Case 2 presented with mixed HHS-DKA and respiratory distress with hypercapnia. How might respiratory acidosis influence the overall acid-base picture and management approach in such a complex presentation?",
+      "ideal_answer_keywords": [
+        "mixed acidosis",
+        "compensatory mechanisms",
+        "bilevel positive airway pressure (BiPAP)",
+        "ventilation support",
+        "pH interpretation",
+        "pCO2 significance",
+        "fluid and electrolyte management in respiratory compromise"
+      ]
+    },
+    {
+      "question": "The initial insulin dosing in these cases was subsequently reduced. Elaborate on the risks associated with rapid correction of hyperglycemia and hyperosmolality, particularly with high-dose insulin, in a child presenting with HHS, and describe the mechanisms by which these complications occur.",
+      "ideal_answer_keywords": [
+        "cerebral edema",
+        "rapid osmotic shifts",
+        "fluid movement into brain cells",
+        "iatrogenic hypoglycemia",
+        "hypokalemia",
+        "fluid overload",
+        "gradual glucose reduction",
+        "insulin sensitivity",
+        "sodium correction"
+      ]
+    }
+  ],
+  "topic_tag": "diabetic_ketoacidosis_type_1"
+}

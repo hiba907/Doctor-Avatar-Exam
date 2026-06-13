@@ -1,0 +1,187 @@
+{
+  "case_id": "VSC-13195003",
+  "title": "Immune checkpoint inhibitor-associated diabetes mellitus: an overlooked immune-related adverse event—two case reports and a literature review",
+  "specialty": "Oncology, Endocrinology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13195003",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13195003/",
+    "license": "Creative Commons Attribution License (CC BY)"
+  },
+  "learning_objectives": [
+    "Recognize the diverse clinical presentations of immune checkpoint inhibitor-associated diabetes mellitus (ICI-DM), including fulminant autoimmune type 1 DM and type 2 DM-like phenotypes.",
+    "Understand the importance of early and continuous glucose monitoring during and after immunotherapy for detection of ICI-DM.",
+    "Identify risk factors and clinical features suggestive of ICI-DM, such as diabetic ketoacidosis (DKA) at onset and delayed presentation post-treatment.",
+    "Describe the initial management principles for ICI-DM, particularly when presenting with DKA.",
+    "Appreciate the heterogeneity in ICI-DM pathogenesis and its implications for individualized patient management and prognosis."
+  ],
+  "patient_profile": {
+    "age": 66,
+    "sex": "Female",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Extensive-stage small cell lung carcinoma (T4NxM1a, stage IVA) diagnosed February 2022.",
+      "No prior history of diabetes mellitus.",
+      "No family history of diabetes.",
+      "No exposure to corticosteroid therapy."
+    ],
+    "family_history": [
+      "No family history of diabetes"
+    ],
+    "social_history": ""
+  },
+  "presenting_complaint": "Intermittent cough and unexplained shortness of breath (initial cancer presentation, February 2022). Subsequently, acute symptoms including dry mouth, nausea, fatigue, polyuria, and general malaise (9 weeks after serplulimab discontinuation, DKA onset).",
+  "history_of_present_illness": "Case 1: A 66-year-old woman diagnosed with extensive-stage small cell lung carcinoma in February 2022. She received 22 cycles of serplulimab. Due to disease progression, treatment was changed to paclitaxel in combination with anlotinib, achieving a partial response. Nine weeks after discontinuation of serplulimab (approximately 19 months after treatment initiation), she developed acute symptoms of DKA, with markedly elevated serum glucose (31.55 mmol/L) and acidosis (pH 7.12). Initial management included intravenous fluid resuscitation and continuous insulin infusion. Following DKA resolution, she was provisionally managed for type 2 diabetes, but recurred with DKA one week later, requiring further DKA protocols and revealing profoundly low C-peptide levels. \n\nCase 2: A 62-year-old man presented in February 2025 with a 2-year history of right upper abdominal discomfort, diagnosed with intrahepatic cholangiocarcinoma (T2N1M1, stage IV). He received seven cycles of envafolimab. On July 17, 2025 (after 23 weeks of therapy), he self-detected elevated blood glucose. Initial laboratory findings showed hyperglycemia (13.01 mmol/L) and elevated HbA1c (9.5%), but no DKA. An oral glucose tolerance test demonstrated preserved C-peptide levels with an appropriate response to glucose stimulation, suggesting an insulin resistance phenotype. Diabetes-related autoantibodies were negative.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "Case 1 - Baseline (pre-ICI)": {
+        "Fasting Plasma Glucose (FPG)": "5.3 mmol/L (95.4 mg/dL)",
+        "Glycated Hemoglobin (HbA1c)": "5.5%",
+        "Fasting C-peptide": "1.8 ng/mL"
+      },
+      "Case 1 - DKA onset (9 weeks post-serplulimab discontinuation)": {
+        "Serum Glucose": "31.55 mmol/L (567.9 mg/dL)",
+        "pH": "7.12",
+        "Serum Bicarbonate": "4.80 mmol/L",
+        "Partial Pressure of Carbon Dioxide (pCO2)": "15.22 mmHg",
+        "Base Excess": "-22.35 mmol/L",
+        "Anion Gap": "30.70 mmol/L",
+        "Urine Ketones": "3+",
+        "Urine Glucose": "4+",
+        "HbA1c": "7.6%"
+      },
+      "Case 1 - Recurrent DKA": {
+        "Serum Glucose": "16.3 mmol/L (293.4 mg/dL)",
+        "pH": "7.07",
+        "Serum Bicarbonate": "3.00 mmol/L",
+        "pCO2": "10.59 mmHg",
+        "Base Excess": "-24.90 mmol/L",
+        "Anion Gap": "30.90 mmol/L",
+        "Blood Ketones": "6.8 mmol/L"
+      },
+      "Case 1 - OGTT with insulin and C-peptide": {
+        "Blood Glucose (0/30/60/120/180min)": "17.07 / 12.40 / 20.38 / 26.80 / 28.98 mmol/L",
+        "Insulin (0/30/60/120/180min)": "2.688 / 14.924 / 13.900 / 12.007 / 12.281 μU/mL",
+        "C-peptide (0/30/60/120/180min)": "<0.200 ng/mL for all time points"
+      },
+      "Case 2 - Baseline (pre-ICI)": {
+        "Fasting Plasma Glucose (FPG)": "5.4 mmol/L (97.2 mg/dL)",
+        "Glycated Hemoglobin (HbA1c)": "5.6%",
+        "Fasting C-peptide": "2.1 ng/mL"
+      },
+      "Case 2 - Hyperglycemia onset (23 weeks on envafolimab)": {
+        "Serum Glucose": "13.01 mmol/L (234.18 mg/dL)",
+        "pCO2": "33.49 mmHg",
+        "pH": "7.42",
+        "Serum Bicarbonate": "21.20 mmol/L",
+        "Urine Glucose": "4+",
+        "Urine Ketones": "negative",
+        "HbA1c": "9.5%",
+        "Diabetes-related Autoantibodies": "negative"
+      },
+      "Case 2 - OGTT with insulin and C-peptide": {
+        "Blood Glucose (0/60/120min)": "17.07 / 17.74 / 21.32 mmol/L",
+        "C-peptide (0/60/120min)": "5.269 / 6.510 / 6.643 ng/mL"
+      }
+    },
+    "imaging": [
+      "Case 1: Chest CT (central-type mass left lower lobe, 59 × 56 × 74 mm, suggestive of lung carcinoma; involvement of left lower pulmonary artery and vein, compression of left atrium, pleural invasion; slightly enlarged mediastinal lymph node; minimal left-sided pleural effusion). Brain MRI, abdominal and pelvic CT, whole-body bone scan (no distant metastases).",
+      "Case 2: Hepatobiliary and pancreatic CT (intrahepatic cholangiocarcinoma with multiple intrahepatic metastases; compression of adjacent right hepatic vein and inferior vena cava; multiple enlarged lymph nodes in hepatic hilum, pericholecystic region, retroperitoneum; nodular lesion in right adrenal gland considered metastatic)."
+    ],
+    "other_tests": [
+      "Case 1: Bronchoscopy with biopsy (exophytic stenosis at left lower lobe bronchial opening); Histopathological examination confirmed small cell carcinoma.",
+      "Case 2: Ultrasound-guided liver biopsy; Histopathological examination confirmed invasive adenocarcinoma consistent with intrahepatic cholangiocarcinoma."
+    ]
+  },
+  "differential_diagnosis": [
+    "Diabetic Ketoacidosis (as a complication of any diabetes type)",
+    "Type 1 Diabetes Mellitus (especially fulminant autoimmune form)",
+    "Type 2 Diabetes Mellitus",
+    "Immune checkpoint inhibitor-associated diabetes mellitus (ICI-DM)",
+    "Diabetes secondary to autoimmune pancreatitis",
+    "ICI-associated lipodystrophy-related diabetes"
+  ],
+  "final_diagnosis": "Case 1: Extensive-stage small cell lung carcinoma (T4NxM1a, stage IVA) with delayed-onset Immune checkpoint inhibitor-associated diabetes mellitus (ICI-DM) presenting as fulminant autoimmune type 1 diabetes mellitus and recurrent diabetic ketoacidosis. \n\nCase 2: Intrahepatic cholangiocarcinoma (T2N1M1, stage IV) with Immune checkpoint inhibitor-associated dysglycemia, resembling a type 2 diabetes mellitus-like phenotype.",
+  "management_plan": [
+    "Case 1: Acute DKA managed with intravenous fluid resuscitation, continuous insulin infusion, correction of electrolyte imbalance, and resolution of ketosis. Chronic glycemic control managed with subcutaneous insulin aspart before meals and insulin glargine at bedtime. Oral antidiabetic agents (retagliptin and henagliflozin) were initially used but later replaced by insulin-only regimen. Immunotherapy (serplulimab) was discontinued.",
+    "Case 2: Managed with exogenous insulin therapy for hyperglycemia. Immunotherapy (envafolimab) was continued due to satisfactory glycemic control."
+  ],
+  "clinical_course": "Case 1 initially presented with SCLC and received serplulimab. Nine weeks after its discontinuation, she developed acute DKA, requiring intensive care and subsequent readmission for recurrent DKA. Investigations revealed severely impaired C-peptide secretion, consistent with a fulminant T1DM-like phenotype. Immunotherapy was permanently discontinued. With aggressive insulin therapy, she achieved good glycemic control by October 2025. \n\nCase 2, diagnosed with intrahepatic cholangiocarcinoma, developed hyperglycemia after 23 weeks of envafolimab therapy. Unlike Case 1, he did not present with DKA, exhibited preserved islet function (C-peptide response), and was diagnosed with an ICI-related dysglycemia resembling T2DM. He achieved satisfactory glycemic control with exogenous insulin while continuing his immunotherapy until November 2025.",
+  "outcome": "Case 1 achieved good glycemic control with exogenous insulin therapy by October 2025 after immunotherapy discontinuation. Case 2 achieved satisfactory glycemic control with exogenous insulin therapy by November 2025, while continuing immunotherapy.",
+  "teaching_points": [
+    "Immune checkpoint inhibitor-associated diabetes mellitus (ICI-DM) is a rare but severe immune-related adverse event (irAE) that requires prompt recognition.",
+    "ICI-DM is clinically heterogeneous, manifesting as fulminant T1DM (low C-peptide, DKA) or a T2DM-like phenotype (preserved C-peptide, insulin resistance).",
+    "The onset of ICI-DM can be delayed, occurring even after discontinuation of ICI therapy (as seen in Case 1).",
+    "Early and continuous glucose monitoring is crucial during and after immunotherapy to detect ICI-DM and prevent complications like DKA.",
+    "Management involves exogenous insulin, and the decision to discontinue ICI depends on the severity of hyperglycemia, presence of DKA, and overall clinical context.",
+    "ICI-DM typically occurs at an older age, presents more abruptly, and is associated with a lower prevalence of diabetes-related autoantibodies compared to conventional T1DM."
+  ],
+  "red_flags": [
+    "New-onset symptoms of diabetes (polyuria, polydipsia, fatigue, dry mouth, unexplained weight loss) in patients receiving or having recently discontinued ICIs.",
+    "Signs and symptoms indicative of diabetic ketoacidosis (nausea, vomiting, abdominal pain, Kussmaul respirations, altered mental status) should prompt immediate evaluation.",
+    "Any unexplained hyperglycemia during or after ICI treatment, even without typical DKA symptoms.",
+    "Delayed onset of diabetes symptoms, occurring weeks or months after ICI discontinuation, necessitates continued vigilance."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What are the key differentiating features between Case 1 and Case 2 in terms of their presentation, laboratory findings (especially endocrine markers), and the implications for their respective ICI-DM phenotypes and management strategies?",
+      "ideal_answer_keywords": [
+        "Case 1: DKA onset, delayed presentation post-ICI, low/undetectable C-peptide, fulminant T1DM-like, ICI discontinuation for irAE management.",
+        "Case 2: hyperglycemia without DKA, onset during ICI, preserved C-peptide response, T2DM-like (insulin resistance), ICI continuation possible with glycemic control.",
+        "Phenotypic heterogeneity, individualized approach to ICI-DM, importance of C-peptide."
+      ]
+    },
+    {
+      "question": "Discuss the proposed mechanisms by which immune checkpoint inhibitors can induce diabetes mellitus, considering the two distinct phenotypes observed in these cases.",
+      "ideal_answer_keywords": [
+        "PD-1/PD-L1 blockade, T-cell activation, immune surveillance restoration, autoimmune insulitis, beta cell destruction (T1DM-like).",
+        "Cytotoxic lymphocyte activation, inflammatory responses, immune-mediated insulin resistance (T2DM-like).",
+        "Overlap with known autoimmune diabetes mechanisms, specific targeting of pancreatic islets."
+      ]
+    },
+    {
+      "question": "A patient on a PD-1 inhibitor for melanoma presents with new-onset fatigue, thirst, and mild confusion. What immediate diagnostic steps would you take, and what specific lab values would you prioritize to rule out or confirm ICI-DM with DKA?",
+      "ideal_answer_keywords": [
+        "Immediate blood glucose check, venous blood gas (pH, bicarbonate, pCO2, base excess), serum electrolytes, anion gap calculation, urine ketones, blood ketones (beta-hydroxybutyrate).",
+        "Prioritize DKA diagnosis: high glucose, low pH, low bicarbonate, high anion gap, ketonemia/ketonuria.",
+        "Further workup: HbA1c, C-peptide, diabetes-related autoantibodies to characterize diabetes type."
+      ]
+    },
+    {
+      "question": "Case 1 demonstrates a delayed onset of ICI-DM after serplulimab discontinuation. What are the practical implications of this for long-term patient monitoring and education following the completion or cessation of immunotherapy?",
+      "ideal_answer_keywords": [
+        "Prolonged post-treatment surveillance for irAEs (not just during active treatment).",
+        "Patient education on recognizing symptoms of delayed-onset irAEs, especially diabetes.",
+        "Importance of continuous glucose monitoring post-ICI.",
+        "Need for clear communication between oncology teams and primary care/endocrinology for ongoing follow-up."
+      ]
+    },
+    {
+      "question": "In the context of ICI-DM, what factors would guide your decision regarding the continuation or discontinuation of the immune checkpoint inhibitor, particularly when faced with different severity levels and diabetes phenotypes?",
+      "ideal_answer_keywords": [
+        "Severity of ICI-DM (DKA vs. hyperglycemia without DKA), glycemic control with insulin, tumor response to ICI, availability of alternative cancer therapies.",
+        "Risk-benefit assessment, patient's overall clinical status, multidisciplinary discussion (oncology, endocrinology).",
+        "Case 1 (DKA, fulminant T1DM-like): often requires ICI discontinuation. Case 2 (hyperglycemia, T2DM-like, manageable): ICI continuation may be feasible with aggressive glycemic management."
+      ]
+    }
+  ],
+  "topic_tag": "diabetic_ketoacidosis_type_1"
+}

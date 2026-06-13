@@ -1,0 +1,134 @@
+{
+  "case_id": "VSC-13191301",
+  "title": "SGLT2 Inhibitors for Cardioprotection in Anthracycline-Treated Cancer Patients: A Narrative Review",
+  "specialty": "Cardio-Oncology",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13191301",
+    "pmc_link": "https://cureus.com/articles/484667-sodium-glucose-cotransporter-2-inhibitors-in-anthracycline-treated-cancer-patients-a-narrative-review-of-emerging-cardioprotective-evidence",
+    "license": "Creative Commons Attribution License CC-BY 4.0."
+  },
+  "learning_objectives": [
+    "To understand the current observational evidence regarding SGLT2 inhibitor use for preventing cancer therapy-related cardiac dysfunction (CTRCD) in anthracycline-treated cancer patients.",
+    "To identify the key methodological limitations and biases (e.g., healthy user bias, immortal time bias) in observational studies evaluating SGLT2 inhibitors for CTRCD.",
+    "To recognize the mechanistic plausibility of SGLT2 inhibitors in attenuating anthracycline-induced cardiotoxicity (AIC).",
+    "To assess the implications of current evidence for clinical practice and be aware of ongoing randomized controlled trials addressing this question.",
+    "To differentiate between imaging-based and administrative outcome definitions for cardiac dysfunction and their respective limitations."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "",
+  "management_plan": [],
+  "clinical_course": "",
+  "outcome": "",
+  "teaching_points": [
+    "SGLT2 inhibitors (SGLT2i) are consistently associated with lower rates of cardiovascular events (HF hospitalization, cardiac dysfunction) in observational studies of anthracycline-treated cancer patients (n=21,523).",
+    "The observed effect sizes for SGLT2i in observational studies are likely inflated due to substantial residual confounding, including healthy user bias and immortal time bias, and are disproportionately large compared to established HF trials.",
+    "Despite mechanistic plausibility for SGLT2i in anthracycline-induced cardiotoxicity (AIC), current evidence from observational studies is hypothesis-generating and does not support routine clinical use for CTRCD prevention.",
+    "The evidence base is largely restricted to patients with type 2 diabetes and frequently relies on administrative outcome definitions, limiting generalizability and the ability to detect subclinical dysfunction.",
+    "Three adequately designed prospective randomized controlled trials (EMPACT, PROTECT, PROTECTAA) are ongoing to provide definitive clinical evidence, using imaging-based primary endpoints and enrolling non-diabetic patients.",
+    "SGLT2i appear to have a generally favorable safety profile in cancer populations, consistent with broader cardio-oncology safety analyses."
+  ],
+  "red_flags": [
+    "Over-interpretation of observational data as causal evidence for SGLT2i cardioprotection, especially given the strong signals of bias.",
+    "Extrapolating findings primarily from diabetic populations to all anthracycline-treated cancer patients without specific evidence.",
+    "Implementing routine clinical use of SGLT2i for CTRCD prevention outside of clinical trial settings before definitive randomized controlled trial data are available."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What are the primary mechanisms of anthracycline-induced cardiotoxicity (AIC), and how do SGLT2 inhibitors mechanistically overlap with these pathways to offer potential cardioprotection?",
+      "ideal_answer_keywords": [
+        "topoisomerase IIβ inhibition",
+        "oxidative stress",
+        "anthracycline-iron complexes",
+        "reactive oxygen species",
+        "mitochondrial dysfunction",
+        "cardiomyocyte apoptosis",
+        "SGLT2i mechanisms",
+        "cardiac remodeling",
+        "inflammation",
+        "myocardial energetics"
+      ]
+    },
+    {
+      "question": "The narrative review emphasizes significant biases in observational studies. Explain 'healthy user bias' and 'immortal time bias' in the context of SGLT2i use for CTRCD, and discuss how they might lead to an overestimation of treatment effect.",
+      "ideal_answer_keywords": [
+        "healthy user bias",
+        "metabolic management",
+        "closer monitoring",
+        "other cardioprotective agents",
+        "better functional status",
+        "immortal time bias",
+        "drug initiation",
+        "exposure definition",
+        "time-at-risk",
+        "survival advantage"
+      ]
+    },
+    {
+      "question": "The review notes a discrepancy between the magnitude of observed associations in observational studies and established heart failure trials. What are the clinical implications of this discrepancy for medical students and future practitioners when evaluating new therapies based on observational data?",
+      "ideal_answer_keywords": [
+        "causal inference",
+        "hypothesis-generating",
+        "inflation of effect size",
+        "residual confounding",
+        "need for RCTs",
+        "evidence hierarchy",
+        "clinical decision-making",
+        "patient counseling"
+      ]
+    },
+    {
+      "question": "Compare and contrast the strengths and weaknesses of imaging-based endpoints (e.g., echocardiography, GLS) versus administrative coding for defining and assessing cardiac dysfunction in cardio-oncology research. How does this heterogeneity affect the interpretation of the current evidence base?",
+      "ideal_answer_keywords": [
+        "imaging-based endpoints",
+        "LVEF",
+        "GLS",
+        "subclinical dysfunction",
+        "sensitivity",
+        "earlier detection",
+        "administrative coding",
+        "ICD codes",
+        "overt events",
+        "symptomatic HF",
+        "specificity",
+        "data source",
+        "heterogeneity",
+        "comparability"
+      ]
+    }
+  ],
+  "topic_tag": "diabetic_ketoacidosis_type_1"
+}

@@ -1,0 +1,154 @@
+{
+  "case_id": "VSC-13198834",
+  "title": "Midline Destructive Lesions of Face: A Dermatology Perspective",
+  "specialty": "Dermatology and Venereology",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13198834",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13198834/",
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License (CC BY-NC-ND)"
+  },
+  "learning_objectives": [
+    "To understand the heterogeneous nature and various terminologies associated with Midline Destructive Lesions (MDLs) of the face.",
+    "To identify the broad categories of etiologies for MDLs, including infectious, autoimmune, malignant, vascular, idiopathic, toxic, and traumatic causes.",
+    "To recognize specific clinical and histopathological clues for differentiating between various causes of MDLs.",
+    "To appreciate the multidisciplinary approach required for the diagnosis and management of MDLs, particularly the role of dermatology."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": "This article discusses various clinical features associated with different etiologies of Midline Destructive Lesions (MDLs), rather than a single patient's specific examination. Examples include: widening of the right nostril and induration of the upper lip, nasal septa, columella, and abscess formation with overlying scaling (sporotrichosis); facial and periorbital edema with erythema and swelling of the lower two-thirds of nose with hemorrhagic crust, leading to destruction of nasal cartilage with granular mucopurulent discharge (Wegener’s granulomatosis); atrophic plaque with rolled-out borders, central ulceration, and loss of nasal cartilage (basal cell carcinoma); destructive whitish necrotic ulceration with perilesional erythema and induration (nasal-type NK/T-cell lymphoma); scarring and loss of nasal cartilage (burn injury); indurated and suppurative nodule resembling a “bunch of grapes” with draining sinuses discharging yellow sulfur granules (actinomycosis); gelatinous, friable nasal polyps (rhinosporidosis); saddle nose deformity, chronic nasal ulcers, nasal discharge, bleeding, pain, crusting (various conditions including Churg Strauss syndrome, Behcet’s disease, cocaine abuse)."
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [],
+    "other_tests": [
+      "Histopathological evaluation (highlighted as a key diagnostic tool, with specific 'histopathology clues' provided for various etiologies)"
+    ]
+  },
+  "differential_diagnosis": [
+    "Infective: Bacterial (Actinomycosis, Leprosy, Mycobacterium, Rhinoscleroma, Syphilis), Fungal (Aspergillosis, Rhinomucormycosis, Sporotrichosis, Histoplasmosis, Blastomycosis, Rhinosporidosis), Protozoa (Leishmaniasis)",
+    "Autoimmune: Vasculitis (Churg Strauss disease, Wegener’s granuloma, Behcet’s disease), Connective tissue disorder (Systemic lupus, Sjogren syndrome, Mixed connective tissue disease), Other (Goodpasture’s disease, Pyoderma gangrenosum, Foreign-body granuloma, Hypersensitivity angiitis, Relapsing polychondritis, IgG4 related, Sarcoidosis)",
+    "Malignancy: Basal cell carcinoma, Squamous cell carcinoma, NK-T cell lymphoma (Nasal type), Rhabdomyosarcoma, Esthesioneuroblastoma, Non-Hodgkin Lymphoma, Necrotizing sialometaplasia",
+    "Vascular: Lobular capillary hemangioma",
+    "Idiopathic: Idiopathic Midline Destructive Disease (IMDD)",
+    "Toxic: Cocaine abuse, Chromium, Intranasal steroid misuse",
+    "Trauma: Accidental, Self-inflicted (Rhinotillexomania), Giant cell granuloma, Cholesterol granuloma, Iatrogenic",
+    "Miscellaneous: Chronic renal disease, Inflammatory bowel disease, Eosinophilic granuloma, Cement"
+  ],
+  "final_diagnosis": "",
+  "management_plan": [],
+  "clinical_course": "The article does not describe a single clinical course for a specific patient, but generally notes that MDLs involve progressive destruction. One specific example for sporotrichosis describes: initial presentation with widening of the right nostril, induration of the upper lip, nasal septa, columella, and abscess formation with overlying scaling, which progressed to ulceration with overlying crust formation over 2 weeks.",
+  "outcome": "For the specific sporotrichosis case highlighted: complete resolution post-treatment with saturated solution of potassium iodide and Itraconazole and without recurrence at 1 year follow-up.",
+  "teaching_points": [
+    "Midline destructive lesions (MDLs) of the face were first described in 1897 and encompass various conditions causing progressive midfacial destruction.",
+    "A wide range of etiologies contribute to MDLs, categorized into infective, autoimmune, malignant, vascular, idiopathic, toxic, traumatic, and miscellaneous causes.",
+    "Dermatologists play a crucial role in diagnosing MDLs by correlating cutaneous manifestations with underlying structures, systemic involvement, and histopathological evaluation.",
+    "Specific clinical clues (e.g., 'bunch of grapes' nodules for actinomycosis, gray/reddish nasal mucosa with eschar for rhinomucormycosis, saddle nose deformity for Churg Strauss or cocaine abuse) and distinct histopathological features are critical for narrowing the differential diagnosis.",
+    "Idiopathic Midline Destructive Disease (IMDD) is a diagnosis of exclusion, characterized by progressive destruction in the absence of other identifiable causes, typically showing a necrotic mixed inflammatory granulomatous infiltrate."
+  ],
+  "red_flags": [
+    "Progressive destruction of midfacial structures (implies severe underlying pathology)",
+    "Necrotic ulceration or eschar (suggests aggressive infection, vasculitis, or malignancy)",
+    "Evidence of cartilage or bone destruction (indicates advanced disease)",
+    "Systemic symptoms or organ involvement (points towards systemic diseases like vasculitis or autoimmune conditions)",
+    "Rapid progression of lesions (raises concern for aggressive infections or malignancies)"
+  ],
+  "examiner_questions": [
+    {
+      "question": "A patient presents with a history of recurrent epistaxis, nasal obstruction, and diffuse necrotic ulceration of the nasal septum leading to a saddle nose deformity. What specific toxic etiology should be considered, and what unique clinical and histopathological findings would support this diagnosis over an autoimmune vasculitis?",
+      "ideal_answer_keywords": [
+        "Cocaine abuse",
+        "Nasal obstruction",
+        "Epistaxis",
+        "Diffuse necrotic ulceration",
+        "Crusting",
+        "Nasal septal perforation",
+        "Middle and superior turbinate destruction",
+        "Lateral wall of the nose destruction",
+        "Hard and soft palate perforations",
+        "Dysphagia",
+        "Nasal reflux",
+        "Saddle nose deformity",
+        "Peri-venulitis"
+      ]
+    },
+    {
+      "question": "Considering a patient with suspected Midline Destructive Lesions, outline the key histopathological differences between Extranodal Natural Killer/T-cell Lymphoma (Nasal type) and Idiopathic Midline Destructive Disease (IMDD). How would these findings guide your management approach?",
+      "ideal_answer_keywords": [
+        "NK/T-cell lymphoma: destructive whitish necrotic ulceration, perilesional erythema/induration, atypical lymphoid infiltrate, angiocentricity, angiodestruction, necrosis, positive for CD2, CD56, EBV",
+        "IMDD: necrotic mixed inflammatory granulomatous infiltrate, absence of identifiable specific pathology",
+        "Management implications: Lymphoma requires oncology referral, chemotherapy/radiotherapy; IMDD is diagnosis of exclusion, supportive care or immunosuppression depending on symptoms."
+      ]
+    },
+    {
+      "question": "A patient presents with gelatinous, friable nasal polyps causing foul-smelling discharge and nasal bleeding. Based on the provided etiologies, what fungal infection is most likely, and what specific histopathological features would be definitive for its diagnosis?",
+      "ideal_answer_keywords": [
+        "Rhinosporidosis",
+        "Gelatinous nasal polyps",
+        "Friable",
+        "Foul-smelling discharge",
+        "Nasal bleeding",
+        "Epithelial hyperplasia",
+        "Squamous metaplasia",
+        "Presence of sporangia/endospores of Rhinosporidium seeberi"
+      ]
+    },
+    {
+      "question": "Discuss the clinical presentation and expected histopathological findings in a case of ANCA-associated vasculitis (specifically Wegener’s granulomatosis) causing a Midline Destructive Lesion. What initial diagnostic tests, beyond histopathology, would be crucial for confirming this diagnosis?",
+      "ideal_answer_keywords": [
+        "Wegener's granulomatosis",
+        "Facial/periorbital edema",
+        "Erythema",
+        "Swelling of lower two-thirds of nose",
+        "Hemorrhagic crust",
+        "Destruction of nasal cartilage",
+        "Granular mucopurulent discharge",
+        "Gross destruction endonasally",
+        "Necrotizing granulomatous inflammation",
+        "Vasculitis (small to medium vessels)",
+        "ANCA (antineutrophil cytoplasmic antibodies)",
+        "c-ANCA (PR3-ANCA)",
+        "Renal function tests",
+        "Urinalysis",
+        "Chest imaging (CT chest)"
+      ]
+    },
+    {
+      "question": "The article emphasizes a multidisciplinary approach for MDLs. Beyond the dermatologist, which other specialists would typically be involved in the workup and management of a complex MDL case, and what specific expertise would each contribute?",
+      "ideal_answer_keywords": [
+        "Otolaryngologist (ENT): Nasal/sinus endoscopy, biopsies, surgical debridement/reconstruction",
+        "Rheumatologist: Evaluation/management of autoimmune conditions (vasculitis, connective tissue diseases)",
+        "Oncologist: Diagnosis/treatment of malignancies (lymphomas, carcinomas)",
+        "Infectious Disease specialist: Diagnosis/management of refractory or unusual infections",
+        "Radiologist: Interpretation of imaging (CT, MRI) to assess extent of destruction",
+        "Pathologist: Expert histopathological interpretation of complex biopsies",
+        "Plastic surgeon: Reconstructive surgery post-treatment"
+      ]
+    }
+  ],
+  "topic_tag": "diabetic_ketoacidosis_type_1"
+}

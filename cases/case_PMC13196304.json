@@ -1,0 +1,140 @@
+{
+  "case_id": "VSC-13196304",
+  "title": "Fatal cerebral scedosporiosis in a liver transplant recipient: Diagnostic pitfalls and antifungal resistance",
+  "specialty": "Infectious Disease",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13196304",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13196304/",
+    "license": "CC BY-NC-ND 4.0"
+  },
+  "learning_objectives": [
+    "Identify diagnostic challenges and pitfalls in cerebral scedosporiosis, particularly in immunocompromised hosts.",
+    "Understand the importance of specific culture techniques (e.g., prolonged incubation, liquid media) and molecular methods for accurate identification of Scedosporium species.",
+    "Discuss the intrinsic antifungal resistance profile of Scedosporium boydii, especially to amphotericin B, and its implications for treatment.",
+    "Evaluate management strategies for refractory fungal infections in transplant recipients, including the role of salvage therapies and intraventricular administration.",
+    "Recognize cerebral scedosporiosis as a medical emergency in transplant recipients and the importance of early species-level diagnosis."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Liver transplant recipient"
+    ],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "A liver transplant recipient was readmitted. On Day +4, neuroimaging was performed, followed by CSF diversion and initial CSF evaluation. Despite repeat CSF sampling and initial negative cultures, a fungal organism was isolated after prolonged incubation. This was later identified as Scedosporium boydii through molecular methods, demonstrating intrinsic resistance to amphotericin B. The patient developed breakthrough infection despite voriconazole therapy, leading to escalation with intraventricular caspofungin and attempts to obtain novel antifungals. The patient experienced a prolonged ICU stay and ultimately succumbed to the infection.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "CSF evaluation": "Initial and repeat CSF evaluations performed (specific results not detailed).",
+      "CSF culture": "Initial CSF cultures were negative. Positive culture after 4-5 days of incubation in Sabouraud dextrose broth demonstrating a floating fungal ball-like structure. Colonial morphology on Sabouraud dextrose agar showed spreading white cottony colonies (surface) and gray to dark brown-black pigmentation (reverse) with age.",
+      "Fungal microscopy": "Lactophenol cotton blue mount showed septate hyphae with sympodial conidiation and truncate tear-drop–shaped conidia, consistent with Scedosporium/Lomentospora spp.",
+      "Molecular identification": "ITS sequencing confirmed Scedosporium boydii (after initial phenotypic assignment as Scedosporium apiospermum).",
+      "Antifungal susceptibility testing (MICs)": "Intrinsic resistance to amphotericin B (MIC 4.0 μg/mL).",
+      "Direct CSF Gram stain (breakthrough infection)": "Demonstrated septate fungal hyphae surrounded by numerous neutrophils, indicating persistent Scedosporium.",
+      "Bacterial culture": "Carbapenem-resistant Klebsiella pneumoniae isolated during complications."
+    },
+    "imaging": [
+      "Neuroimaging performed on Day +4 (specific findings not detailed)."
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "Fatal cerebral scedosporiosis due to Scedosporium boydii in a liver transplant recipient.",
+  "management_plan": [
+    "Cerebrospinal fluid (CSF) diversion.",
+    "Antifungal therapy with voriconazole (approximately 60 days).",
+    "Escalation to intraventricular caspofungin via an Ommaya reservoir.",
+    "Unsuccessful attempts to obtain ibrexafungerp, olorofim, or fosmanogepix on compassionate grounds."
+  ],
+  "clinical_course": "The patient was readmitted on Day 0. On Day +4, neuroimaging was performed, followed by CSF diversion and initial CSF evaluation. A repeat CSF was performed on Day +8. On Days +12 to +13, CSF culture showed a fungal ball-like structure after prolonged incubation, with microscopy consistent with Scedosporium/Lomentospora spp. Phenotypic assignment as Scedosporium apiospermum was made on Days +14 to +16. On Day +18, molecular confirmation identified Scedosporium boydii, which demonstrated intrinsic resistance to amphotericin B. The patient underwent a neurosurgical course during Days +20 to +30. On Day +31, a breakthrough infection was diagnosed by direct CSF Gram stain showing persistent fungal hyphae. Voriconazole was administered for approximately 60 days, achieving CSF sterilization. Due to refractory infection, therapy was escalated to intraventricular caspofungin, and attempts were made to obtain novel antifungals. The patient had a prolonged ICU stay, further complicated by carbapenem-resistant Klebsiella pneumoniae.",
+  "outcome": "The patient expired on Day +90.",
+  "teaching_points": [
+    "Cerebral scedosporiosis is a rare but lethal opportunistic infection in solid organ transplant recipients.",
+    "Diagnostic pitfalls include delayed growth of Scedosporium spp. in routine cultures, necessitating prolonged incubation and specialized media (e.g., liquid media) for sterile-site specimens.",
+    "Accurate species identification, particularly distinguishing Scedosporium boydii from other Scedosporium/Lomentospora species or Aspergillus, is critical due to differences in antifungal susceptibility.",
+    "Scedosporium boydii exhibits intrinsic resistance to amphotericin B, making voriconazole the primary recommended agent; however, even with voriconazole, treatment can be challenging.",
+    "The profound immunologic vulnerability of transplant recipients leads to a narrow therapeutic window, often complicated by breakthrough infections and secondary bacterial superinfections (e.g., multidrug-resistant bacteria).",
+    "Salvage options for refractory scedosporiosis are limited, highlighting the urgent need for accessible next-generation antifungals.",
+    "Intraventricular antifungal therapy may be considered for CNS infections but can contribute to complications such as ventricular scarring and disturbed CSF dynamics."
+  ],
+  "red_flags": [
+    "Neurological deterioration in an immunocompromised patient (e.g., liver transplant recipient).",
+    "Delayed growth of fungal cultures from sterile sites, especially CSF.",
+    "Isolation of a filamentous fungus from CSF.",
+    "Intrinsic resistance to standard empiric antifungal agents (e.g., amphotericin B resistance of S. boydii).",
+    "Breakthrough fungal infection despite appropriate systemic antifungal therapy.",
+    "Requirement for intraventricular antifungal administration.",
+    "Development of secondary multi-drug resistant bacterial infections in immunocompromised hosts."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What specific diagnostic challenges were highlighted in this case, and how did the diagnostic approach (e.g., culture techniques, molecular methods) address these to reach a definitive diagnosis?",
+      "ideal_answer_keywords": [
+        "delayed culture growth",
+        "prolonged incubation",
+        "liquid media (Sabouraud dextrose broth)",
+        "morphological identification",
+        "molecular confirmation (ITS sequencing)",
+        "species-level identification (S. boydii vs. S. apiospermum)"
+      ]
+    },
+    {
+      "question": "Discuss the antifungal resistance profile of Scedosporium boydii as demonstrated in this case, and explain why this finding is crucial for guiding therapeutic decisions in transplant recipients.",
+      "ideal_answer_keywords": [
+        "intrinsic amphotericin B resistance",
+        "MIC 4.0 μg/mL",
+        "voriconazole as primary agent",
+        "therapeutic implications",
+        "lack of salvage options",
+        "species-specific susceptibility"
+      ]
+    },
+    {
+      "question": "Beyond the direct fungal infection, what systemic and iatrogenic factors in a liver transplant recipient contributed to the patient's poor prognosis and eventual mortality? Consider both the infection and its management.",
+      "ideal_answer_keywords": [
+        "immunocompromised state",
+        "prolonged ICU stay",
+        "carbapenem-resistant Klebsiella pneumoniae",
+        "breakthrough infection",
+        "narrow therapeutic window",
+        "complications of intraventricular therapy (ventricular scarring, disturbed CSF dynamics)"
+      ]
+    },
+    {
+      "question": "Imagine you are developing a protocol for managing suspected cerebral fungal infections in solid organ transplant recipients in your institution. Based on this case, what key recommendations would you include for diagnostic workup and initial empirical antifungal therapy?",
+      "ideal_answer_keywords": [
+        "high index of suspicion",
+        "early neuroimaging",
+        "CSF analysis",
+        "prolonged CSF culture incubation (7+ days)",
+        "use of liquid media",
+        "molecular diagnostics (ITS sequencing)",
+        "empirical voriconazole (vs. amphotericin B)",
+        "consideration of combination therapy"
+      ]
+    }
+  ],
+  "topic_tag": "multidrug_resistant_urinary_infection"
+}

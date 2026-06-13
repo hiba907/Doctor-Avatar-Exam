@@ -1,0 +1,182 @@
+{
+  "case_id": "VSC-13198789",
+  "title": "When life gives you limes… it gives you Candida: a case of lime-contaminated IV injection",
+  "specialty": "Infectious Diseases",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13198789",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13198789/",
+    "license": "Creative Commons Attribution License (CC BY 4.0)"
+  },
+  "learning_objectives": [
+    "Recognize intravenous drug use, especially with acidic diluents, as a risk factor for invasive fungal infections.",
+    "Identify polymicrobial non-albicans Candida species (e.g., C. krusei, C. lusitaniae) as potential pathogens in candidemia.",
+    "Interpret antifungal susceptibility profiles, particularly for intrinsically resistant Candida species.",
+    "Understand the importance of early diagnosis and appropriate antifungal treatment in candidemia.",
+    "Discuss harm reduction strategies relevant to people who inject drugs to prevent infectious complications."
+  ],
+  "patient_profile": {
+    "age": 29,
+    "sex": "Male",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Substance use disorder",
+      "Intravenous drug use",
+      "Bipolar disorder",
+      "Anemia",
+      "Prior Hepatitis C infection"
+    ],
+    "family_history": "",
+    "social_history": "History of intravenous drug use (injecting crack cocaine mixed with lime juice); reuses needles; left hospital against medical advice multiple times; discharged to a shelter."
+  },
+  "presenting_complaint": "Chest pain and shortness of breath (on return to hospital)",
+  "history_of_present_illness": "Two days prior to current presentation, the patient presented to the emergency department for a mechanical fall resulting in lacerations to the chin, shoulders, and knees. At that time, he was febrile (101.8°F), tachycardic (103 bpm), normotensive, and not in respiratory distress. A sepsis workup was initiated, and broad-spectrum antibiotics were administered. The patient left the hospital against medical advice before evaluation completion. He returned to the hospital two days later with complaints of chest pain and shortness of breath, ongoing for two days. He denied fever, chills, nausea, vomiting, headache, vision changes, palpitations, dizziness, lightheadedness, cough, back pain, changes in bowel movements, or weight loss. He reported injecting cocaine mixed with lime juice and reusing needles.",
+  "vital_signs": {
+    "blood_pressure": "130/73 mmHg",
+    "heart_rate": 71,
+    "respiratory_rate": 16,
+    "oxygen_saturation": 99,
+    "temperature": 97.7
+  },
+  "physical_examination": {
+    "general": "Hemodynamically stable",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": "Lacerations to the chin, shoulders, and knees (from prior fall)."
+  },
+  "investigations": {
+    "laboratory": {
+      "Complete Blood Count": {
+        "White Blood Cell Count": "4.8 x 10^3/uL",
+        "Platelets": "Thrombocytopenia",
+        "Hemoglobin": "Normocytic anemia"
+      },
+      "HIV Screening": "Negative",
+      "Blood Cultures": "Growth of Candida krusei and Candida lusitaniae",
+      "Antifungal Susceptibility (MICs)": {
+        "Candida lusitaniae": {
+          "Amphotericin B": "1 (No interpretation)",
+          "Anidulafungin": "0.12 (No interpretation)",
+          "Caspofungin": "0.25 (No interpretation)",
+          "Fluconazole AF": "2 (No interpretation)",
+          "Micafungin": "0.12 (No interpretation)",
+          "Posaconazole": "0.06 (No interpretation)",
+          "Voriconazole AF": "0.03 (No interpretation)"
+        },
+        "Candida krusei": {
+          "Amphotericin B": "1 (No interpretation)",
+          "Anidulafungin": "0.06 (Sensitive)",
+          "Caspofungin": "0.25 (Sensitive)",
+          "Fluconazole AF": "(-) (No data)",
+          "Micafungin": "0.12 (Sensitive)",
+          "Posaconazole": "0.5 (No interpretation)",
+          "Voriconazole AF": "0.5 (Sensitive)"
+        }
+      }
+    },
+    "imaging": [
+      "Axial CT scan of the chest: Bilateral lung parenchyma with a focal peripheral lesion (approx. 18.4 mm) in the left lung, subpleural, with surrounding patchy opacities suggestive of inflammatory or infectious changes."
+    ],
+    "other_tests": [
+      "Transthoracic and transesophageal echocardiography: Negative for endocardial vegetations.",
+      "Ophthalmological evaluation: Deferred (no vision changes or eye symptoms).",
+      "Targeted peripheral venous imaging: Not undertaken (no definite signs/symptoms of septic thrombophlebitis)."
+    ]
+  },
+  "differential_diagnosis": [
+    "Sepsis (bacterial, initial consideration)",
+    "Bacteremia",
+    "Fungal infection (Candidemia)",
+    "Endocarditis",
+    "Septic thrombophlebitis"
+  ],
+  "final_diagnosis": "Polymicrobial candidemia (Candida krusei and Candida lusitaniae) associated with lime-contaminated intravenous drug injection.",
+  "management_plan": [
+    "Initial presentation (first hospital visit): Broad-spectrum antibiotics administered.",
+    "Re-presentation: Started on broad-spectrum antibiotics and Caspofungin empirically.",
+    "After transfer to another facility: Caspofungin continued.",
+    "Completed a 14-day course of antifungal therapy after fungemia cleared.",
+    "Counseled on substance use cessation.",
+    "Discharged to a shelter with infectious disease and primary care follow-up.",
+    "Referral for substance dependency treatment."
+  ],
+  "clinical_course": "The patient initially presented for a mechanical fall and left AMA despite being febrile and having broad-spectrum antibiotics initiated. He subsequently returned with chest pain and shortness of breath. Blood cultures grew Candida krusei and Candida lusitaniae. He was started on broad-spectrum antibiotics and Caspofungin. He again left AMA but was readmitted to another facility for worsening chest tightness, where Caspofungin was continued. Echocardiography was negative for endocardial vegetations. The patient showed clinical and radiographic improvement, cleared fungemia, and completed a 14-day course of antifungal therapy.",
+  "outcome": "Resolution of fungemia and improvement in clinical and radiographic findings. Discharged to a shelter with plans for infectious disease, primary care, and substance dependency follow-up.",
+  "teaching_points": [
+    "Lime and other acidic diluents used in IV drug preparation can serve as nutrient media for fungal growth and cause vascular injury, facilitating fungal bloodstream infections.",
+    "Polymicrobial candidemia, including non-albicans species, can occur in people who inject drugs and use contaminated acidic solutions.",
+    "Candida krusei is intrinsically resistant to fluconazole, necessitating careful selection of empirical and definitive antifungal therapy.",
+    "Early diagnosis, identification of specific Candida species, and susceptibility testing are crucial for effective management of candidemia, especially with non-albicans species.",
+    "Harm reduction strategies, including education on safe injection practices and sterile diluents, are vital for preventing serious infections in people who inject drugs.",
+    "Atypical presentations (e.g., afebrile despite fungemia) can occur in specific patient populations, requiring a high index of suspicion based on history and risk factors."
+  ],
+  "red_flags": [
+    "History of intravenous drug use, especially with unconventional diluents.",
+    "Signs/symptoms of sepsis or systemic infection in an IVDU patient.",
+    "Persistence or worsening of symptoms despite initial broad-spectrum antibiotic therapy.",
+    "Imaging findings suggestive of disseminated infection (e.g., pulmonary lesions).",
+    "Polymicrobial fungal growth in blood cultures.",
+    "Patient leaving against medical advice, indicating potential for poor adherence and ongoing risk behaviors."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Beyond direct injection of contaminated material, what are the proposed mechanisms by which acidic diluents like lime juice contribute to invasive fungal infections in people who inject drugs?",
+      "ideal_answer_keywords": [
+        "chemical irritation",
+        "vascular injury",
+        "endothelial disruption",
+        "facilitate translocation",
+        "nutrient-rich media",
+        "fungal growth",
+        "ambient temperatures"
+      ]
+    },
+    {
+      "question": "Given the antifungal susceptibility profile, particularly for *Candida krusei*, discuss the implications for empirical antifungal therapy in a patient with suspected candidemia and a history of IVDU. What class of antifungals would be preferred initially and why?",
+      "ideal_answer_keywords": [
+        "C. krusei intrinsic resistance",
+        "fluconazole",
+        "inadequate treatment",
+        "empirical therapy",
+        "echinocandins (caspofungin, micafungin, anidulafungin)",
+        "broad spectrum fungal coverage",
+        "early speciation",
+        "susceptibility testing"
+      ]
+    },
+    {
+      "question": "The patient exhibited normothermia and normal vital signs on re-presentation despite active fungemia and pulmonary lesions. Discuss why vital signs can be misleading in severe infections, especially in vulnerable populations like those with substance use disorder, and what other clinical cues should prompt a high index of suspicion for serious infection.",
+      "ideal_answer_keywords": [
+        "immunocompromised status (substance use, chronic illness)",
+        "physiological compensation",
+        "atypical presentation",
+        "SIRS criteria limitations",
+        "persistent symptoms (chest pain, SOB)",
+        "IVDU history",
+        "imaging findings (lung lesion)",
+        "laboratory abnormalities (thrombocytopenia, anemia)"
+      ]
+    },
+    {
+      "question": "This case highlights the challenges of patient adherence due to substance use disorder. Outline a comprehensive, multidisciplinary discharge plan that addresses both the infectious disease and the underlying addiction, aiming to improve long-term outcomes and prevent recurrence.",
+      "ideal_answer_keywords": [
+        "harm reduction education",
+        "integrated care model",
+        "motivational interviewing",
+        "social support (shelter/housing)",
+        "substance dependency treatment referral (medication-assisted treatment, counseling)",
+        "trust-building",
+        "shared decision-making",
+        "outpatient infectious disease follow-up",
+        "primary care engagement",
+        "mental health support (bipolar disorder)"
+      ]
+    }
+  ],
+  "topic_tag": "febrile_neutropenia"
+}

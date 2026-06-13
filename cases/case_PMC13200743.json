@@ -1,0 +1,199 @@
+{
+  "case_id": "VSC-13200743",
+  "title": "Diagnostic Approach to Diffuse Cystic Lung Diseases (DCLDs)",
+  "specialty": "Radiology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13200743",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200743/",
+    "license": "Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/)"
+  },
+  "learning_objectives": [
+    "To understand the broad spectrum and diagnostic challenges of diffuse cystic lung diseases (DCLDs).",
+    "To recognize high-resolution CT (HRCT) as the cornerstone for DCLD diagnosis, while acknowledging its limitations.",
+    "To appreciate the necessity of a multidisciplinary framework integrating imaging with clinical, genetic, and histopathological data for accurate DCLD diagnosis.",
+    "To identify key imaging features and differential diagnoses for common DCLDs, including Lymphangioleiomyomatosis (LAM), Pulmonary Langerhans Cell Histiocytosis (PLCH), Folliculin Deficiency Syndrome (FDS), Lymphoid Interstitial Pneumonia (LIP), Amyloidosis, and Light Chain Deposition Disease (LCDD).",
+    "To understand the central role of radiologists in the timely recognition and collaborative management of DCLDs."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "",
+  "history_of_present_illness": "",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [
+      {
+        "modality": "High-resolution CT (HRCT)",
+        "findings": "Cornerstone for diagnosis of DCLDs. Limitations include insufficient spatial resolution for subtle cysts and variable correlation with functional impairment. Persistent discrepancies between imaging findings and underlying pathology noted.",
+        "examples": [
+          {
+            "disease": "Congenital Pulmonary Airway Malformation (CPAM)",
+            "patient_description": "63-year-old woman: multiple cysts with irregular soft-tissue mass in the right lower lobe. 25-year-old woman: oval soft-tissue mass in the left lower lobe. 24-year-old woman: large irregular soft-tissue mass with giant pulmonary cyst in the left lung."
+          },
+          {
+            "disease": "Pulmonary Sequestration (PS)",
+            "patient_description": "43-year-old man: well-demarcated, air-filled, paravertebral multicystic lesion in the posterior segment of the right lower lobe. 3D reconstruction shows systemic arterial supply from a branch of the thoracic aorta and systemic venous drainage."
+          },
+          {
+            "disease": "Lymphangioleiomyomatosis (LAM)",
+            "patient_description": "67-year-old woman: numerous smooth, thin-walled, round, or oval cysts evenly distributed across both lungs, including the costophrenic angles. Cysts lack internal septa or traversing vessels; intervening lung parenchyma appears normal. Arises from TSC1/TSC2 mutations with mTOR pathway hyperactivation."
+          },
+          {
+            "disease": "Pulmonary Langerhans Cell Histiocytosis (PLCH)",
+            "patient_description": "32-year-old male smoker: Baseline CT shows multiple upper-lobe predominant cysts of varying wall thickness, scattered nodules, and bilateral ground-glass opacities (GGOs). Follow-up CT (8 months) shows nodules and GGOs have nearly resolved, while most cysts persist. Strongly associated with smoking; affects young adults."
+          },
+          {
+            "disease": "Folliculin Deficiency Syndrome (FDS)",
+            "patient_description": "58-year-old woman: multiple, well-defined, thin-walled pulmonary cysts of varying size and morphology (round, oval, irregular), clustered in the medial, mid-lung, and lower lobes, with a characteristic subpleural distribution along the mediastinal pleura, interlobar fissures, and costophrenic angles. Caused by germline FLCN variants, predisposing to spontaneous pneumothorax (SP) and increased lifetime risk of renal cell carcinoma (RCC)."
+          },
+          {
+            "disease": "Lymphoid Interstitial Pneumonia (LIP)",
+            "patient_description": "38-year-old woman with Sjögren’s disease: sparse (<20), thin-walled pulmonary cysts (<3 cm), variable in shape, occasionally septated, diffusely scattered in a bilateral, mid-to-lower lung distribution with subpleural/peribronchovascular predominance and associated GGOs. Commonly associated with autoimmune disorders (e.g., Sjögren’s disease, HIV/AIDS)."
+          },
+          {
+            "disease": "Pulmonary Amyloidosis",
+            "patient_description": "60-year-old woman with Sjögren’s disease: multiple peribronchial and subpleural nodules in both lungs (varying size and shape, some calcified). Scattered small cysts also present, predominantly along peribronchovascular bundles, with mural or intracystic nodules visible within several cysts. Characterized by extracellular amyloid deposition."
+          },
+          {
+            "disease": "Pulmonary Light Chain Deposition Disease (PLCDD)",
+            "patient_description": "46-year-old woman with Sjögren’s disease: multiple bilateral, thin-walled cysts of varying size and shape; intracystic vessels traverse several cyst walls. Characterized by non-fibrillar, Congo-red-negative monoclonal immunoglobulin light chains deposition, distinct from amyloidosis."
+          }
+        ]
+      }
+    ],
+    "other_tests": [
+      "Clinical data",
+      "Genetic data",
+      "Histopathological data"
+    ]
+  },
+  "differential_diagnosis": [
+    "Lymphangioleiomyomatosis (sporadic and TSC-associated)",
+    "Pulmonary Langerhans cell histiocytosis",
+    "Non-Langerhans cell histiocytoses (e.g., Erdheim Chester disease)",
+    "Primary and metastatic neoplasms (e.g., sarcomas, adenocarcinomas, pleuropulmonary blastoma, benign metastasizing leiomyoma)",
+    "Folliculin deficiency syndrome (Birt-Hogg-Dubé syndrome)",
+    "Proteus syndrome",
+    "Neurofibromatosis",
+    "Ehlers-Danlos syndrome",
+    "Marfan syndrome",
+    "Congenital pulmonary airway malformation",
+    "Pulmonary sequestration",
+    "Congenital lobar emphysema",
+    "Bronchogenic cysts",
+    "Bronchopulmonary dysplasia",
+    "Hyper IgE syndrome (Job syndrome)",
+    "Lymphoid interstitial pneumonia",
+    "Follicular bronchiolitis",
+    "Sjögren’s disease (associated conditions)",
+    "Amyloidosis",
+    "Light chain deposition disease",
+    "Lymphoma (e.g., MALToma)",
+    "Castleman disease",
+    "Pneumocystis jirovecii infection",
+    "Staphylococcal pneumonia",
+    "Respiratory papillomatosis",
+    "Fungal diseases (e.g., coccidioidomycosis)",
+    "Parasitic diseases (e.g., paragonimiasis)",
+    "Hypersensitivity pneumonitis",
+    "Alveolar macrophage pneumonia (desquamative interstitial pneumonia)",
+    "Respiratory bronchiolitis (smoking related)",
+    "Aluminum dust pneumoconiosis",
+    "Fire-eater’s lung",
+    "Hard metal lung disease (tungsten carbide sensation)",
+    "Chronic beryllium disease (beryllium sensitization)",
+    "Hut lung (biomass fuels)",
+    "Mimics of cystic lung disease: Bleb, Bulla, Bronchiectasis, Cavity, Cystic lung cancer, Emphysema (e.g., alpha1-antitrypsin deficiency), Honeycomb (e.g., sarcoidosis, idiopathic pulmonary fibrosis), Post-traumatic pseudocysts/pneumatocele"
+  ],
+  "final_diagnosis": "Diffuse Cystic Lung Diseases (DCLDs)",
+  "management_plan": [],
+  "clinical_course": "",
+  "outcome": "",
+  "teaching_points": [
+    "Diffuse cystic lung diseases (DCLDs) are a heterogeneous group of rare disorders with rising prevalence, characterized by pulmonary cyst formation.",
+    "High-resolution CT (HRCT) is the primary imaging modality for DCLDs, but its interpretation must consider technical limitations and potential discrepancies with underlying pathology.",
+    "A comprehensive diagnostic workflow for DCLDs necessitates integrating imaging findings with clinical context, genetic testing, and histopathological data within a multidisciplinary framework.",
+    "Radiologists play a critical role in the timely identification of DCLDs, contributing to collaborative decision-making and optimizing patient outcomes.",
+    "Key imaging differentiators for DCLDs include cyst distribution (e.g., diffuse in LAM vs. upper-lobe predominant in PLCH vs. subpleural in FDS), wall thickness, presence of associated findings (e.g., nodules, GGOs, soft-tissue masses, calcifications), and extrapulmonary manifestations."
+  ],
+  "red_flags": [
+    "Persistent discrepancies between imaging findings and underlying pathology.",
+    "Technical limitations of HRCT, including insufficient spatial resolution for subtle cysts and variable correlation with functional impairment.",
+    "Specific associations: strong link between PLCH and smoking, association of LIP, Amyloidosis, and PLCDD with autoimmune disorders like Sjögren’s disease.",
+    "Increased lifetime risk of renal cell carcinoma and predisposition to spontaneous pneumothorax in Folliculin Deficiency Syndrome (FDS).",
+    "Presence of irregular soft-tissue masses or mural/intracystic nodules, which may suggest neoplastic processes (e.g., in CPAM, Amyloidosis, or primary/metastatic neoplasms)."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Beyond typical cyst morphology, what specific ancillary imaging features or distributions can help differentiate between Lymphangioleiomyomatosis (LAM), Pulmonary Langerhans Cell Histiocytosis (PLCH), and Folliculin Deficiency Syndrome (FDS) on HRCT?",
+      "ideal_answer_keywords": [
+        "LAM: diffuse, uniform, thin-walled cysts, even distribution including costophrenic angles, normal intervening parenchyma, no internal septa/vessels, often associated with angiomyolipomas.",
+        "PLCH: upper-lobe predominant, cysts of varying wall thickness, scattered nodules (often cavitating or stellate), ground-glass opacities, resolution of nodules/GGOs but persistence of cysts on follow-up, strong association with smoking.",
+        "FDS: clustered in medial, mid-lung, and lower lobes, characteristic subpleural distribution along mediastinal pleura, interlobar fissures, and costophrenic angles, varying size/morphology, associated with renal cell carcinoma and spontaneous pneumothorax."
+      ]
+    },
+    {
+      "question": "The text emphasizes the limitations of HRCT in diagnosing DCLDs. Elaborate on these limitations and how a multidisciplinary framework attempts to overcome them, citing specific examples from the review.",
+      "ideal_answer_keywords": [
+        "HRCT limitations: insufficient spatial resolution for subtle cysts, variable correlation with functional impairment, persistent discrepancies between imaging findings and underlying pathology.",
+        "Multidisciplinary framework: integrates imaging with clinical, genetic, and histopathological data.",
+        "Examples: PLCH diagnosis confirmed by MAPK-pathway mutation in a smoker; FDS diagnosis aided by germline FLCN variants and risk for RCC; LIP, Amyloidosis, and PLCDD diagnosis linked to autoimmune disorders like Sjögren’s disease (clinical/histopathological context)."
+      ]
+    },
+    {
+      "question": "A patient presents with multiple bilateral thin-walled pulmonary cysts, and intracystic vessels are observed traversing several cyst walls. Which specific Diffuse Cystic Lung Disease is most strongly suggested by this finding, and what systemic condition is it often associated with?",
+      "ideal_answer_keywords": [
+        "Intracystic vessels",
+        "Pulmonary Light Chain Deposition Disease (PLCDD)",
+        "Sjögren’s disease",
+        "monoclonal immunoglobulin light chains deposition"
+      ]
+    },
+    {
+      "question": "Describe the key radiological differences between 'true cysts' in DCLDs and at least three of the 'mimics of cystic lung disease' listed in the text.",
+      "ideal_answer_keywords": [
+        "True cysts (DCLDs): well-defined, thin-walled, round/oval/irregular, often without internal architecture, specific distributions for different DCLDs.",
+        "Mimics:",
+        "Bleb/Bulla: often peripheral/subpleural, very thin walls, usually localized destruction, not diffuse.",
+        "Bronchiectasis: dilated, thick-walled airways, 'signet ring' sign, often associated with mucus plugging, lack true spherical shape.",
+        "Cavity: thick-walled, usually larger, often contain fluid levels or necrotic debris, may have irregular inner margins, typically associated with infection, inflammation or malignancy.",
+        "Emphysema: areas of low attenuation due to parenchymal destruction, often lack definable walls or have very thin, irregular walls, diffuse distribution, associated with smoking or alpha-1 antitrypsin deficiency.",
+        "Honeycomb: clustered cystic spaces (3-10mm), thick-walled, often subpleural and basal, represent end-stage fibrosis with traction bronchiectasis and distorted lung architecture."
+      ]
+    },
+    {
+      "question": "A 60-year-old woman with a known history of Sjögren’s disease is found to have multiple peribronchial and subpleural nodules, some calcified, along with scattered small cysts predominantly along peribronchovascular bundles, notably with mural or intracystic nodules within several cysts. What is the most likely DCLD, and what is its underlying pathological characteristic?",
+      "ideal_answer_keywords": [
+        "Pulmonary Amyloidosis",
+        "extracellular amyloid deposition",
+        "Sjögren’s disease association",
+        "peribronchial and subpleural nodules (calcified), scattered small cysts with mural or intracystic nodules"
+      ]
+    }
+  ],
+  "topic_tag": "atypical_chest_pain_emergency"
+}

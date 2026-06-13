@@ -1,0 +1,163 @@
+{
+  "case_id": "VSC-13200107",
+  "title": "Pericardial Effusions Post Left Atrial Appendage Occlusion: A MAUDE Registry Analysis",
+  "specialty": "Interventional Cardiology",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13200107",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200107/",
+    "license": "CC BY 4.0"
+  },
+  "learning_objectives": [
+    "Understand the reported incidence of acute and late-presenting pericardial effusions (LPEs) following Watchman and Amulet Left Atrial Appendage Occlusion (LAAO) device implantation based on MAUDE registry data.",
+    "Differentiate between acute and late-presenting pericardial effusions in the context of LAAO and their associated interventions and outcomes.",
+    "Recognize the clinical importance of long-term surveillance for complications, particularly LPEs, after successful LAAO.",
+    "Appreciate the inherent limitations of passive surveillance databases like MAUDE for assessing device-specific complication rates and comparing devices."
+  ],
+  "patient_profile": {
+    "age": null,
+    "sex": "",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Nonvalvular atrial fibrillation (primary indication for LAAO)"
+    ],
+    "family_history": "",
+    "social_history": ""
+  },
+  "presenting_complaint": "Chest pain, tamponade, shortness of breath, dizziness, or incidentally detected on routine imaging (echocardiogram, CT).",
+  "history_of_present_illness": "Patients with nonvalvular atrial fibrillation underwent percutaneous left atrial appendage occlusion (LAAO) with either a Watchman or Amulet device for stroke prevention. A common and serious complication, pericardial effusion (PE), was observed. PEs presented either acutely (in-hospital, APE) or in a delayed manner (late-presenting pericardial effusion, LPE) following device implant.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [
+      "Routine echocardiogram",
+      "Routine computed tomography (CT)"
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "Pericardial effusion (acute or late-presenting) following Left Atrial Appendage Occlusion (LAAO) with Watchman or Amulet devices.",
+  "management_plan": [
+    "Pericardiocentesis for effusion drainage",
+    "Pericardial window for recurrent or refractory effusions",
+    "Other cardiac surgery for complex cases or specific injuries (e.g., pulmonary artery injury)"
+  ],
+  "clinical_course": "In the MAUDE database, 290 PEs were reported for Amulet LAAO and 33 for Watchman. Among Amulet-related PEs, 99/290 (34.1%) were LPEs; for Watchman, 2/33 (6.1%) were LPEs. Interventions were required in 64.4% of Amulet APEs and 54.5% of Amulet LPEs. For Watchman, interventions were needed in 77.4% of APEs and 50.0% of LPEs. Mortality rates were similar between APE (8.4%) and LPE (8.0%) in the Amulet group, but higher for Watchman LPE (50.0%). Pulmonary artery injury was a suspected cause in a small number of Amulet PEs, associated with high mortality.",
+  "outcome": "Pericardial effusions, particularly late-presenting ones, following LAAO are associated with significant morbidity and mortality, often necessitating invasive interventions. Despite successful LAAO, these complications highlight the need for ongoing patient surveillance.",
+  "teaching_points": [
+    "Percutaneous LAAO is a vital alternative to oral anticoagulation for stroke prevention in nonvalvular atrial fibrillation.",
+    "Pericardial effusion is the most common serious complication after LAAO, with occurrences ranging from acute (in-hospital) to late-presenting (post-discharge).",
+    "MAUDE registry data suggests a higher number of reported PEs with the Amulet device compared to Watchman, and a higher proportion of LPEs among Amulet-related PEs.",
+    "Late-presenting pericardial effusions can manifest weeks to months post-implant, potentially due to microperforations or inflammatory responses.",
+    "Both acute and late PEs frequently require invasive intervention (e.g., pericardiocentesis, pericardial window) and carry substantial risks of morbidity and mortality.",
+    "The inherent limitations of passive surveillance databases (e.g., lack of denominator data, reporting bias) mean that reported event counts cannot be directly interpreted as incidence rates or used for direct device comparison.",
+    "Long-term post-LAAO surveillance, including serial echocardiography, is crucial for early detection and management of delayed complications like LPEs."
+  ],
+  "red_flags": [
+    "Any new or worsening chest pain, dyspnea, or signs of hemodynamic compromise in a patient status post-LAAO, even months after the procedure, should raise suspicion for LPE.",
+    "Pulmonary artery injury, though rare, is a highly lethal complication of LAAO that can lead to acute pericardial effusion.",
+    "Given the differences in device design (e.g., dual-sealing of Amulet vs. single lobe of Watchman), clinicians should be aware of potential device-specific complications and surveillance needs.",
+    "Interpreting data from passive surveillance systems like MAUDE requires caution, as the absence of a known denominator (total number of devices implanted) prevents calculation of true incidence rates or direct comparison of complication frequencies between devices."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What are the primary limitations of using the MAUDE database for comparing complication rates between medical devices like the Watchman and Amulet LAAO, and how do these limitations impact the interpretation of this study's findings?",
+      "ideal_answer_keywords": [
+        "passive surveillance",
+        "lack of denominator data",
+        "reporting bias",
+        "voluntary reporting",
+        "variable data detail",
+        "retrospective",
+        "no standardization",
+        "confounding factors",
+        "cannot establish causality",
+        "frequency vs. incidence"
+      ]
+    },
+    {
+      "question": "Based on the study's conclusions, what specific recommendations would you propose for the long-term follow-up of patients after LAAO to mitigate the risks associated with late-presenting pericardial effusions?",
+      "ideal_answer_keywords": [
+        "long-term surveillance",
+        "serial echocardiograms",
+        "patient education",
+        "symptom recognition",
+        "chest pain",
+        "shortness of breath",
+        "dizziness",
+        "tamponade",
+        "algorithmic approach",
+        "transthoracic echocardiography (TTE)"
+      ]
+    },
+    {
+      "question": "Discuss the proposed mechanisms for the development of both acute and late-presenting pericardial effusions following LAAO, considering the anatomical structures involved and potential differences in device design between Amulet and Watchman.",
+      "ideal_answer_keywords": [
+        "anatomical proximity",
+        "left atrial appendage (LAA)",
+        "cardiac vessels",
+        "pulmonary artery (PA) injury",
+        "microperforation",
+        "subclinical hemopericardium",
+        "inflammatory response",
+        "device design",
+        "Amulet dual-sealing (lobe/disc)",
+        "Watchman single lobe",
+        "device anchors",
+        "force of deployment"
+      ]
+    },
+    {
+      "question": "The study highlights a high mortality rate associated with pulmonary artery injury. In a clinical scenario, how might pre-procedural imaging and intra-procedural techniques be optimized to reduce the risk of this severe complication during LAAO?",
+      "ideal_answer_keywords": [
+        "pre-procedural CT imaging",
+        "anatomic assessment",
+        "distance from LAA to PA",
+        "LAA morphology",
+        "device sizing",
+        "intra-procedural imaging guidance",
+        "transesophageal echocardiography (TEE)",
+        "angiography",
+        "operator experience",
+        "device repositioning",
+        "avoidance of oversizing"
+      ]
+    },
+    {
+      "question": "If tasked with designing a prospective clinical trial or a large-scale registry to more definitively assess the incidence and outcomes of LAAO-related pericardial effusions, what key methodological components would you include to overcome the limitations encountered in this MAUDE analysis?",
+      "ideal_answer_keywords": [
+        "prospective design",
+        "standardized data collection",
+        "denominator data (total implants)",
+        "patient demographics",
+        "comorbidities",
+        "medication history",
+        "operator experience",
+        "adjudicated events",
+        "defined endpoints",
+        "long-term follow-up protocol",
+        "control groups (if comparative)",
+        "NCDR LAAO registry data linkage",
+        "core lab adjudication of effusions"
+      ]
+    }
+  ],
+  "topic_tag": "atypical_chest_pain_emergency"
+}

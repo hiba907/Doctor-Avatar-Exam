@@ -1,0 +1,178 @@
+{
+  "case_id": "VSC-13196299",
+  "title": "Oesophageal Mucormycosis in a Post-Transplant Patient",
+  "specialty": "Infectious Diseases",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13196299",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13196299/",
+    "license": "CC BY-NC-ND 4.0"
+  },
+  "learning_objectives": [
+    "To understand the presentation, diagnosis, and management of oesophageal mucormycosis in immunocompromised patients.",
+    "To recognize the utility of PET/CT imaging in staging and monitoring invasive fungal infections.",
+    "To appreciate that antifungal therapy alone can be efficacious for mucormycosis when surgery is contraindicated.",
+    "To consider the role of immune reconstitution and potential antifungal resistance in treatment outcomes."
+  ],
+  "patient_profile": {
+    "age": 54,
+    "sex": "male",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [
+      "Posaconazole (prophylaxis, initially)",
+      "Cyclosporine (initially post-transplant, then ceased)",
+      "Valganciclovir (for CMV DNAemia)",
+      "Liposomal Amphotericin B (6 weeks)",
+      "Isavuconazole (long-term maintenance)",
+      "Subcutaneous immunoglobulin (for hypogammaglobulinaemia)",
+      "Deferasirox (for hemochromatosis)"
+    ],
+    "past_medical_history": [
+      "Multiply-relapsed B cell acute lymphoblastic leukaemia",
+      "Matched-unrelated-donor allogeneic hematopoietic stem cell transplantation (March 2022)",
+      "Prior multiple chemotherapy regimens for marrow and CNS disease",
+      "Chimeric antigen receptor T-cell therapy (June 2021)",
+      "Acquired hypogammaglobulinaemia",
+      "C282Y homozygous hemochromatosis with iron overload",
+      "CMV DNAemia post-transplant (peak viral load 1376 IU/mL)",
+      "Oesophageal mucositis (presumed, day 20 post-transplant)"
+    ],
+    "family_history": [],
+    "social_history": "Portuguese descent, 40 pack-year smoking history (stopped 2019)"
+  },
+  "presenting_complaint": "Two weeks of progressive dysphagia to solids and liquids, regurgitation, and post-prandial vomiting.",
+  "history_of_present_illness": "A 54-year-old male, 3 months post matched-unrelated-donor allogeneic hematopoietic stem cell transplantation for multiply-relapsed B cell acute lymphoblastic leukaemia, presented with a two-week history of progressive dysphagia to solids and liquids, regurgitation, and post-prandial vomiting. Earlier, at day 20 post-transplant, cross-sectional CT imaging for new fevers had demonstrated marked thickening of the thoracic oesophageal wall, which was presumed mucositis-related. Due to the worsening symptoms at day 82, repeat CT revealed improved but persisting circumferential oesophageal thickening. Gastroscopy at day 84 identified an ulcerated exophytic 3cm lesion partially obstructing the mid-oesophagus.",
+  "vital_signs": {
+    "blood_pressure": "",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "Pre-allograft ferritin": "2296 ug/L",
+      "Transferrin saturation": "87%",
+      "Bronchoalveolar lavage cultures": "Negative (bacteria, fungi, acid-fast bacilli)",
+      "Galactomannan antigen testing (BAL)": "Negative",
+      "PCR assays (BAL)": "Negative (Pneumocystis jirovecii, Mycobacterium tuberculosis)",
+      "CMV DNAemia (peak viral load)": "1376 IU/mL",
+      "Lymphocyte count (initial post-transplant)": "0.4x10^9/L (prior to cyclosporine cessation)",
+      "Histopathology (oesophageal biopsy)": "Necrotic tissue and fungal hyphae morphologically consistent with Mucormycetes, with associated tissue damage",
+      "Fungal PCR (oesophageal tissue)": "Positive for Mucormycetes",
+      "Bone marrow biopsy (6 months post-transplant)": "Confirmed relapsed leukaemia"
+    },
+    "imaging": [
+      "Pre-transplant CT (sinuses, chest, abdomen, pelvis): No abnormality consistent with invasive fungal infection; multiple spiculated peribronchovascular bilateral upper lobe lesions with emphysematous changes.",
+      "Cross-sectional CT (day 20 post-transplant): Marked thickening of the thoracic oesophageal wall extending to the gastro-oesophageal junction, presumed mucositis-related.",
+      "CT (day 82 post-transplant): Improved but persisting circumferential oesophageal thickening, more localized compared to day 20 imaging.",
+      "Gastroscopy (day 84 post-transplant): Identified an ulcerated exophytic 3cm lesion partially obstructing the mid-oesophagus, friable mucosa.",
+      "Repeat Gastroscopy (2 weeks after LAMB initiation): Identified a severe 3mm diameter oesophageal stenosis, appearing benign.",
+      "PET/CT scans (after 3 and 6 weeks of LAMB): Showed resolution of metabolic activity in the oesophageal lesion.",
+      "Three-monthly interval PET/CT scans: Monitoring for mucormycosis.",
+      "PET/CT (6 months post-transplant): Showed relapsed leukaemia, with no signs of recurrent Mucormycosis."
+    ],
+    "other_tests": [
+      "Bronchoscopy (for upper lobe lung lesions, pre-transplant): Macroscopically normal airways."
+    ]
+  },
+  "differential_diagnosis": [
+    "Oesophageal mucositis (initial consideration)",
+    "Other invasive fungal infections (e.g., Candidiasis, Aspergillosis)",
+    "CMV esophagitis"
+  ],
+  "final_diagnosis": "Oesophageal mucormycosis (diagnosed at day 84 post-transplant).",
+  "management_plan": [
+    "Commenced intravenous Liposomal Amphotericin B (LAMB) at 5mg/kg daily for 6 weeks.",
+    "Cyclosporine ceased with subsequent lymphocyte recovery to promote immune reconstitution.",
+    "Endoscopic resection was contraindicated due to lesion depth and size; surgical resection was contraindicated due to prohibitive perioperative risks.",
+    "Fortnightly oesophageal dilatations performed over two months for severe oesophageal stenosis.",
+    "After 6 weeks of LAMB, transitioned to oral Isavuconazole (loading dose 200mg three times a day for 2 days, followed by maintenance 200mg daily) for long-term therapy (intended for one year), due to concerns about acquired posaconazole resistance and lack of cultured isolate.",
+    "Nasogastric tube used for enteral feeding for 8 weeks until tolerating a pureed diet and swallowing tablets.",
+    "Serial endoscopy and three-monthly interval PET/CT scans implemented for monitoring treatment response."
+  ],
+  "clinical_course": "Following the diagnosis and initiation of IV Liposomal Amphotericin B, and cessation of cyclosporine, repeat gastroscopy after two weeks identified a severe oesophageal stenosis, which was managed with fortnightly dilatations over two months. Serial PET/CT scans demonstrated resolution of metabolic activity after 3 and 6 weeks of LAMB, guiding the transition to oral isavuconazole. The patient gradually tolerated a pureed diet and oral tablets after 8 weeks of nasogastric enteral feeding. He remained clinically stable with three-monthly PET/CT scans and endoscopic monitoring, demonstrating sustained resolution of the mucormycosis.",
+  "outcome": "The oesophageal mucormycosis resolved with antifungal therapy and immune reconstitution. However, PET/CT at 6 months post-transplant showed relapsed leukaemia, confirmed by bone marrow biopsy, and the patient died 7 months post-transplant from relapsed leukaemia, with no signs of recurrent mucormycosis.",
+  "teaching_points": [
+    "Oesophageal mucormycosis is an uncommon but life-threatening opportunistic fungal infection, particularly in severely immunocompromised patients (e.g., post-allogeneic stem cell transplant with underlying leukaemia, hypogammaglobulinaemia, and iron overload).",
+    "Aggressive antifungal therapy (e.g., Liposomal Amphotericin B followed by Isavuconazole) can be effective for mucormycosis even without surgical debridement, especially when surgery is contraindicated due to high perioperative risks.",
+    "Immune reconstitution (e.g., by reducing or ceasing immunosuppressants) is a critical adjunctive strategy for successful management of mucormycosis.",
+    "PET/CT imaging provides combined anatomical and functional assessment, proving valuable for staging, assessing disease dissemination, and monitoring treatment response in invasive fungal infections like mucormycosis, potentially guiding duration of therapy.",
+    "Microbiological diagnosis via species-specific PCR on fresh tissue is crucial for confirming invasive mould infections, particularly when fungal cultures may be negative.",
+    "The development of mucormycosis on azole prophylaxis (posaconazole) should raise concerns about potential acquired resistance, influencing subsequent antifungal selection."
+  ],
+  "red_flags": [
+    "New onset or worsening dysphagia, regurgitation, or vomiting in an immunocompromised patient, especially post-transplant.",
+    "Oesophageal thickening or mass lesions on imaging (e.g., CT, gastroscopy) in high-risk patients.",
+    "Persistent fevers or gastrointestinal symptoms despite standard antifungal prophylaxis in transplant recipients.",
+    "High iron burden (e.g., hemochromatosis, as seen with pre-allograft ferritin 2296ug/L) is a significant and often underappreciated risk factor for mucormycosis."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What are the key risk factors for mucormycosis, particularly evident in this patient's case, and how do they synergistically contribute to susceptibility?",
+      "ideal_answer_keywords": [
+        "Immunocompromised state",
+        "Allogeneic stem cell transplant",
+        "Leukaemia",
+        "Neutropenia (implied by transplant/chemo)",
+        "Acquired hypogammaglobulinaemia",
+        "Iron overload (hemochromatosis)",
+        "Mucositis",
+        "Cyclosporine use"
+      ]
+    },
+    {
+      "question": "Discuss the rationale behind the specific antifungal regimen used (LAMB followed by Isavuconazole) and the decision *not* to perform surgical debridement, which is typically standard for mucormycosis.",
+      "ideal_answer_keywords": [
+        "Liposomal Amphotericin B (first-line, broad-spectrum, fungicidal)",
+        "Isavuconazole (alternative, effective against Mucorales, better safety profile for maintenance, concern for posaconazole resistance)",
+        "Surgical debridement contraindicated (prohibitive perioperative risks, lesion depth/size)",
+        "Efficacy of medical therapy alone (especially with immune reconstitution)",
+        "Posaconazole prophylaxis failure"
+      ]
+    },
+    {
+      "question": "Explain the role and advantages of PET/CT imaging in the management of this case, comparing its utility to conventional CT or endoscopy for monitoring treatment response in invasive fungal infections.",
+      "ideal_answer_keywords": [
+        "Staging/extent of disease",
+        "Detecting metabolically active lesions",
+        "Combined anatomical and functional assessment",
+        "Monitoring treatment response (metabolic response over time)",
+        "Guiding therapy duration (transition to oral)",
+        "Confirming resolution",
+        "Superior to CT for active inflammation/infection",
+        "Complementary to endoscopy for mucosal changes"
+      ]
+    },
+    {
+      "question": "The patient developed mucormycosis while on posaconazole prophylaxis. What implications does this have for diagnosis, antifungal susceptibility considerations, and subsequent therapeutic choices?",
+      "ideal_answer_keywords": [
+        "Breakthrough infection",
+        "Potential posaconazole resistance (Mucorales species differ in susceptibility)",
+        "Need for alternative agent (Isavuconazole is active against Mucorales and different class)",
+        "Importance of tissue biopsy/PCR for species identification if culture negative",
+        "Challenges of empiric therapy"
+      ]
+    },
+    {
+      "question": "Beyond antifungal therapy, what crucial non-antifungal management strategies were implemented, and how did they contribute to the successful resolution of the oesophageal mucormycosis in this patient?",
+      "ideal_answer_keywords": [
+        "Cessation of cyclosporine (immune reconstitution, lymphocyte recovery)",
+        "Oesophageal dilatations (managing stenosis, symptomatic relief)",
+        "Nutritional support (nasogastric tube, pureed diet)",
+        "Monitoring for relapsed leukaemia (underlying cause of immunocompromise)"
+      ]
+    }
+  ],
+  "topic_tag": "diabetic_ketoacidosis_type_1"
+}

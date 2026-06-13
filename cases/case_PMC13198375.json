@@ -1,0 +1,176 @@
+{
+  "case_id": "VSC-13198375",
+  "title": "Cerebral fat embolism treated with mechanical embolectomy: case report and systematic review of the literature",
+  "specialty": "Neurology, Radiology, Stroke Medicine",
+  "difficulty": "medium",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13198375",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13198375/",
+    "license": "CC BY 4.0"
+  },
+  "learning_objectives": [
+    "To understand the rare but potentially fatal complication of cerebral fat embolism (CFE).",
+    "To recognize the clinical presentation and diagnostic imaging findings of CFE.",
+    "To evaluate mechanical embolectomy as a treatment option for CFE.",
+    "To compare the outcomes of different mechanical embolectomy techniques (aspiration vs. aspiration + stent retriever) in CFE.",
+    "To consider the differential diagnosis of post-operative neurological deficits, including paradoxical embolism."
+  ],
+  "patient_profile": {
+    "age": "70s",
+    "sex": "Female",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Atrial fibrillation",
+      "Ischaemic stroke (prior)",
+      "Gastro-oesophageal-reflux-disease",
+      "Hypertension",
+      "Osteoarthritis"
+    ],
+    "family_history": "",
+    "social_history": "Right-handed"
+  },
+  "presenting_complaint": "Acute onset left-sided hemiparesis and abnormal posturing shortly after total hip replacement surgery.",
+  "history_of_present_illness": "An elderly right-handed lady in her 70s with a history of atrial fibrillation, prior ischaemic stroke, gastro-oesophageal-reflux-disease, hypertension, and osteoarthritis presented for an elective right total hip replacement. The procedure was performed under spinal block and low-dose propofol sedation. Towards the end of the procedure, after the surgeons had added cement and prosthetic and were closing the operative site, the patient became hypoxic, tachypnoeic, hypertensive, and tachycardic. Sedation and vasopressor input were subsequently ceased. Following transfer to her bed, she was noted to have a decreased level of consciousness despite sedation cessation, abnormal posturing, and was not moving her left side, with an initial GCS of 5 (E1V1M3). These symptoms were noted approximately 45 minutes prior to initial imaging.",
+  "vital_signs": {
+    "blood_pressure": "Hypertensive",
+    "heart_rate": "Tachycardic",
+    "respiratory_rate": "Tachypnoeic",
+    "oxygen_saturation": "Hypoxic",
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "Decreased level of consciousness (GCS 5 initially, GCS 7 post-embolectomy, GCS 10 by day 2, GCS 11 by day 5). Intubated and ventilated initially, re-intubated post-embolectomy.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "Abnormal posturing, not moving left side (left-sided hemiparesis/plegia), flicker of movement in left foot post-embolectomy, later dense left hemiplegia. Poor sensorium, left-sided neglect, right-sided gaze deviation, inability to communicate.",
+    "other": "Increased secretions post-embolectomy."
+  },
+  "investigations": {
+    "laboratory": {},
+    "imaging": [
+      {
+        "type": "CT Head (45 minutes post-symptoms)",
+        "findings": "Small focus of slightly decreased attenuation in the medial part of the right thalamus, consistent with an area of acute infarction."
+      },
+      {
+        "type": "CT Angiogram (45 minutes post-symptoms)",
+        "findings": "Right M1 embolus with fat attenuation. Selective angiography confirmed occlusion of the right M1 segment of the middle cerebral artery."
+      },
+      {
+        "type": "CT Head (1 day post-admission)",
+        "findings": "Evolving ischaemia in the right lenticulostriate territory, with the remainder of the MCA territory largely spared."
+      },
+      {
+        "type": "CT Head (6 days post-admission)",
+        "findings": "Development of ischaemia."
+      },
+      {
+        "type": "CT Head (13 days post-admission)",
+        "findings": "Further, expected evolution of ischaemia."
+      },
+      {
+        "type": "Transthoracic Echocardiogram (2 days post-admission)",
+        "findings": "No patent foramen ovale (PFO) noted. Increased pulmonary arterial pressure and mild-moderate tricuspid regurgitation. (Bubble contrast echocardiogram, which has higher sensitivity for PFOs, was not performed.)"
+      }
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [
+    "Acute ischaemic stroke due to cerebral fat embolism",
+    "Paradoxical embolism (investigated and largely ruled out by transthoracic echocardiogram)",
+    "Cardioembolic stroke",
+    "Atherothrombotic stroke",
+    "Intracranial hemorrhage"
+  ],
+  "final_diagnosis": "Cerebral fat embolism (CFE) of the right M1 segment after total hip replacement.",
+  "management_plan": [
+    "Immediate intubation and ventilation, propofol/remifentanil/metaraminol infusion upon initial neurological decline.",
+    "Mechanical embolectomy with aspiration alone for the right M1 occlusion (achieved TICI score 3 recanalization) approximately 1 hour 20 minutes after symptom onset.",
+    "Post-procedure neurocritical care monitoring; re-intubation and sedation required due to low GCS and increased secretions.",
+    "Transferred to a stroke unit for multidisciplinary rehabilitation including physiotherapy, occupational therapy, and speech and language therapy.",
+    "Pharmacological treatment for newly developed post-stroke depression (fluoxetine)."
+  ],
+  "clinical_course": "Following mechanical embolectomy, the patient was initially extubated but required re-intubation due to a low GCS (7), increased secretions, and poor sensorium. She was monitored in the neurocritical care unit overnight. Her GCS gradually improved to 10 by day 2 and 11 by day 5, allowing successful extubation on day 3. Interval CT imaging showed evolving ischaemia in the right lenticulostriate territory. A transthoracic echocardiogram ruled out a PFO. The patient continued to exhibit a dense left hemiplegia, left-sided neglect, and right-sided gaze deviation, along with an inability to communicate, requiring transfer to a stroke unit for intensive rehabilitation.",
+  "outcome": "Over the subsequent two months, the patient improved to become alert, communicate fully, and mobilize with an electrical wheelchair. Post-stroke depression was successfully treated with fluoxetine. However, the right-sided gaze deviation, dense left hemiplegia, and left-sided neglect largely persisted, indicating significant residual neurological deficits.",
+  "teaching_points": [
+    "Cerebral fat embolism (CFE) is a rare but potentially fatal complication, most commonly associated with orthopedic surgery, trauma, and plastic surgery.",
+    "Prompt recognition of acute neurological deficits (e.g., altered consciousness, focal weakness) in the post-operative period is critical for early diagnosis and intervention.",
+    "CT angiogram demonstrating an embolus with fat attenuation is highly suggestive of CFE.",
+    "Mechanical embolectomy, particularly aspiration alone, appears to be a viable treatment option for large vessel occlusion in CFE, with the literature review suggesting a potential (though not statistically significant) mortality benefit over stent retriever use for fat emboli.",
+    "Investigation for a patent foramen ovale (PFO) is important in cases of suspected paradoxical embolism, but its absence does not preclude CFE via other mechanisms.",
+    "Multidisciplinary rehabilitation is crucial for optimizing functional recovery in stroke patients, even in cases with severe initial neurological insult."
+  ],
+  "red_flags": [
+    "Sudden, unexplained neurological deterioration (e.g., decreased level of consciousness, focal neurological signs) in a post-operative patient or after major trauma.",
+    "Systemic signs such as hypoxia, tachypnoea, hypertension, and tachycardia accompanying neurological changes.",
+    "Imaging findings of cerebral large vessel occlusion, especially if embolus characteristics suggest fat (e.g., low attenuation on CT)."
+  ],
+  "examiner_questions": [
+    {
+      "question": "Given the patient's history of atrial fibrillation and prior ischemic stroke, what differential diagnoses, beyond CFE, should have been immediately considered for her acute post-operative neurological decline, and how would you rapidly differentiate them using initial imaging?",
+      "ideal_answer_keywords": [
+        "atherothrombotic stroke",
+        "cardioembolic stroke",
+        "intracranial hemorrhage",
+        "sedation effects",
+        "seizure",
+        "CT head",
+        "CT angiogram",
+        "fat attenuation",
+        "clot characteristics",
+        "hyperdense vessel sign"
+      ]
+    },
+    {
+      "question": "The literature review highlighted a trend of reduced mortality with aspiration-only mechanical embolectomy compared to aspiration plus stent retriever for CFE. Speculate on the potential pathophysiological differences between a fat embolus and a conventional thrombus that might explain this observed trend, and outline the necessary studies to confirm these findings.",
+      "ideal_answer_keywords": [
+        "fat consistency",
+        "friability",
+        "embolic fragmentation",
+        "distal embolization",
+        "stent retriever interaction",
+        "vascular trauma",
+        "registry-based studies",
+        "preclinical models",
+        "randomized controlled trials",
+        "large cohort studies",
+        "histopathological analysis"
+      ]
+    },
+    {
+      "question": "Although a transthoracic echocardiogram did not reveal a PFO, the case report mentions that a bubble contrast echocardiogram was not performed. Discuss the limitations of transthoracic echocardiography for PFO detection and the importance of a more sensitive test in the context of unexplained stroke, particularly if a paradoxical embolism was still a strong consideration.",
+      "ideal_answer_keywords": [
+        "sensitivity",
+        "specificity",
+        "right-to-left shunt",
+        "transesophageal echocardiogram",
+        "agitated saline",
+        "valsalva maneuver",
+        "venous source",
+        "cryptogenic stroke",
+        "recurrent events"
+      ]
+    },
+    {
+      "question": "The patient achieved significant functional recovery but retained dense hemiplegia, neglect, and gaze deviation. Discuss the long-term challenges in managing these specific post-stroke deficits, including compensatory strategies, assistive technologies, and psychosocial support, particularly in an elderly patient.",
+      "ideal_answer_keywords": [
+        "spasticity management",
+        "contracture prevention",
+        "mobility aids",
+        "environmental modifications",
+        "visual scanning training",
+        "prism adaptation",
+        "communication aids",
+        "caregiver burden",
+        "depression",
+        "social isolation",
+        "vocational rehabilitation"
+      ]
+    }
+  ],
+  "topic_tag": "ischemic_stroke_thrombolysis"
+}

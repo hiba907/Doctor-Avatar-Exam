@@ -1,0 +1,160 @@
+{
+  "case_id": "VSC-13198945",
+  "title": "Composite Pheochromocytomas: Clinical and Biochemical Variability (Report of 3 Cases)",
+  "specialty": "Endocrinology",
+  "difficulty": "hard",
+  "estimated_time_minutes": 25,
+  "source": {
+    "pmc_id": "PMC13198945",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13198945/",
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0 (CC BY-NC-ND 4.0)"
+  },
+  "learning_objectives": [
+    "Recognize the diverse clinical and biochemical presentations of composite pheochromocytomas.",
+    "Understand the diagnostic challenges posed by the rarity and atypical manifestations of composite pheochromocytomas.",
+    "Appreciate the critical role of histopathological evaluation for definitive diagnosis.",
+    "Identify appropriate preoperative management strategies, including alpha blockade, for suspected pheochromocytomas.",
+    "Discuss the implications of genetic testing and long-term surveillance in patients with pheochromocytoma."
+  ],
+  "patient_profile": {
+    "age": 63,
+    "sex": "female",
+    "occupation": "",
+    "allergies": "",
+    "current_medications": [],
+    "past_medical_history": [
+      "Uncontrolled hypertension",
+      "Insulin-dependent type 2 diabetes"
+    ],
+    "family_history": [],
+    "social_history": ""
+  },
+  "presenting_complaint": "Abdominal pain and persistent left flank pain.",
+  "history_of_present_illness": "A 63-year-old woman with uncontrolled hypertension and insulin-dependent type 2 diabetes presented with abdominal pain and persistent left flank pain. Abdominal computed tomography (CT) revealed a 1.5 × 1.8 × 1.5 cm right adrenal incidentaloma. 14 months later, repeat CT demonstrated growth of the right adrenal mass to 1.7 × 2.0 × 2.0 cm.",
+  "vital_signs": {
+    "blood_pressure": "Uncontrolled hypertension (pre-op)",
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null,
+    "temperature": null
+  },
+  "physical_examination": {
+    "general": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "abdominal": "",
+    "neurological": "",
+    "other": ""
+  },
+  "investigations": {
+    "laboratory": {
+      "plasma_free_metanephrines": "66 pg/mL (335 pmol/L) (reference range, <57 pg/mL [<289 pmol/L])",
+      "plasma_free_normetanephrines": "229 pg/mL (1250 pmol/L) (reference range, <148 pg/mL [<808 pmol/L])",
+      "total_plasma_metanephrines": "295 pg/mL (1529 pmol/L) (reference range, <205 pg/mL [<1062 pmol/L])",
+      "24_hour_urine_metanephrine": "121 µg (660 nmol) and 168 µg (917 nmol) (reference range, 90-315 µg/24 hours [491-1720nmol])",
+      "24_hour_urine_normetanephrine": "237 µg (1400 nmol) and 336 µg (1990nmol) (reference range, 122-676 µg/24 hours [721-3990 nmol])",
+      "24_hour_total_urine_metanephrines": "358 µg (1950nmol) and 504 µg (2750 nmol) (reference range, 224-832 µg/24 hours [1220-4540 nmol])",
+      "hemoglobin_a1c": "11%"
+    },
+    "imaging": [
+      "Abdominal CT: 1.5 × 1.8 × 1.5 cm right adrenal incidentaloma, unenhanced CT attenuation 28 HU.",
+      "Repeat Abdominal CT (14 months later): growth of right adrenal mass to 1.7 × 2.0 × 2.0 cm with 49% contrast washout."
+    ],
+    "other_tests": []
+  },
+  "differential_diagnosis": [],
+  "final_diagnosis": "Composite pheochromocytoma with ganglioneuroblastoma (confirmed by pathology)",
+  "management_plan": [
+    "Laparoscopic right adrenalectomy.",
+    "No preoperative α blockade administered, as the adrenal mass was deemed biochemically inactive at the time."
+  ],
+  "clinical_course": "Uncomplicated laparoscopic right adrenalectomy.",
+  "outcome": "Postoperatively, blood pressure improved and was controlled on a single antihypertensive agent. Hemoglobin A1c decreased from 11% to 7.1%, allowing discontinuation of insulin. The patient declined genetic testing. Surveillance imaging and plasma metanephrine levels have remained normal. She remains disease-free 4 years after surgery.",
+  "teaching_points": [
+    "Composite pheochromocytomas are rare tumors containing both pheochromocytoma and neurogenic components (e.g., ganglioneuroma/ganglioneuroblastoma), often diagnosed postoperatively by histopathology.",
+    "Clinical presentations may be atypical for pheochromocytoma, lacking the classic triad of headache, palpitations, and diaphoresis.",
+    "Biochemical activity in composite pheochromocytomas can be variable, ranging from biochemically silent to mildly active.",
+    "Discrepancies between plasma free metanephrines (elevated) and 24-hour urine metanephrines (normal) can occur; repeat sampling or further investigation may be necessary for small tumors or atypical presentations.",
+    "Preoperative alpha blockade is crucial for preventing hypertensive crisis during adrenalectomy for pheochromocytoma, even if initially deemed biochemically inactive.",
+    "Adrenal biopsy of a suspected pheochromocytoma is a high-risk procedure and should only be performed after pheochromocytoma is ruled out biochemically and with multidisciplinary involvement.",
+    "Long-term follow-up with surveillance imaging and biochemical testing is recommended for all pheochromocytoma patients due to the risk of recurrence or metastasis.",
+    "Genetic testing is recommended for all patients with pheochromocytoma due to associated genetic syndromes (e.g., NF1, MEN2, VHL, SDHx, LZTR1)."
+  ],
+  "red_flags": [
+    "Growth of an adrenal incidentaloma on serial imaging.",
+    "Atypical clinical presentations of adrenal masses without classic catecholamine excess symptoms.",
+    "Elevated plasma free metanephrines, even if 24-hour urine collections are within normal range.",
+    "Performing adrenal biopsy on a suspected pheochromocytoma without prior biochemical testing and alpha blockade."
+  ],
+  "examiner_questions": [
+    {
+      "question": "What is a composite pheochromocytoma, and what are its key histological components as described in this report?",
+      "ideal_answer_keywords": [
+        "rare tumors",
+        "chromaffin cell tumors",
+        "neurogenic tumors",
+        "ganglioneuroma",
+        "ganglioneuroblastoma",
+        "pheochromocytoma",
+        "Schwann cells"
+      ]
+    },
+    {
+      "question": "Discuss the challenges in diagnosing composite pheochromocytomas, referencing the clinical and biochemical variability observed across the presented cases.",
+      "ideal_answer_keywords": [
+        "rarity",
+        "diverse clinical presentations",
+        "atypical manifestations",
+        "lack classic triad",
+        "biochemically silent",
+        "mildly active",
+        "elevated plasma metanephrines",
+        "normal urine metanephrines",
+        "high clinical suspicion"
+      ]
+    },
+    {
+      "question": "Critically evaluate the decision to proceed with adrenalectomy in Case 1 without preoperative alpha blockade, considering the biochemical findings. What were the potential risks and actual outcomes?",
+      "ideal_answer_keywords": [
+        "deemed biochemically inactive",
+        "elevated plasma metanephrines",
+        "normal urine metanephrines",
+        "risk of hypertensive crisis",
+        "uncomplicated procedure",
+        "improved blood pressure",
+        "importance of alpha blockade",
+        "variability of biochemical tests"
+      ]
+    },
+    {
+      "question": "In Case 2, an adrenal biopsy was performed without pre-procedural alpha blockade. Explain why this is considered a high-risk procedure for a suspected pheochromocytoma and what steps should typically precede such an intervention.",
+      "ideal_answer_keywords": [
+        "high-risk procedure",
+        "catecholamine-related complications",
+        "hypertensive crisis",
+        "not recommended",
+        "multidisciplinary involvement",
+        "pheochromocytoma ruled out",
+        "preoperative alpha blockade",
+        "biochemical testing"
+      ]
+    },
+    {
+      "question": "Genetic testing is recommended for all patients with pheochromocytoma. Based on the discussion in this report, name at least three genetic syndromes or genes associated with pheochromocytoma and explain the significance of variants of unknown significance, such as the LZTR1 finding in Case 2.",
+      "ideal_answer_keywords": [
+        "neurofibromatosis 1",
+        "multiple endocrine neoplasia type 2A and 2B",
+        "von Hippel-Lindau disease",
+        "NF1",
+        "RET",
+        "VHL",
+        "SDHx",
+        "LZTR1",
+        "pathogenic variant of unknown significance",
+        "follow-up",
+        "genetic counseling"
+      ]
+    }
+  ],
+  "topic_tag": "atypical_chest_pain_emergency"
+}
